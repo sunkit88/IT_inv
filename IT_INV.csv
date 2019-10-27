@@ -1,0 +1,531 @@
+﻿Type,Compand Code,Asset Code,Brand,Model,Status (Phy.),Status (Usage),Status (Fixed Asset),Serial No.,Area,Location,Device Name,User,Start Date,End Date,Mainten.,Remark
+Desktop,DFMNM,175,Apple,Apple Mac Mini i7 2.3GHZ,Yes,Yes,Yes,C07JJ26ADWYM,CHINA,Hong Kong,,IT Dept,12/07/2012,,,
+Desktop,FJERM,137,HP,DC5000M,No,No,Yes,,US,New Jersey,,N/A,08/01/2004,,,
+Desktop,DFSNM,12,HP,Elite Desk800G1,Yes,No,Yes,SGH343QP3Y,ASIA,Singapore,,Spare,05/14/2014,,,Not in use and keeping in Cabinet
+Desktop,,,Dell,Inspiron 530,No,No,No,BTP9B2X,CHINA,Shanghai,,Spare,no record,05/07/2019,,disposal at 07 May 2019
+Desktop,DFMNM,230,Dell,OptiPlex 3010,Yes,Yes,Yes,BCGMZZ1,CHINA,Hong Kong,HKPCMZZ1,Zhang Jingming,02/10/2014,,,
+Desktop,FCGEM,53,Dell,OptiPlex 380DT,Yes,No,No,,EUROP,Hamburg,,Spare,no record,,,"already write off, waiting recycle vendor collect, not in use and keeping in Server Room"
+Desktop,FMACM,138,Dell,OptiPlex 390DT,No,No,No,3437XBX,CHINA,Macau,HKPC7XBX,Meeting Room,03/31/2012,,,still in use
+Desktop,,,Dell,OptiPlex 390DT,No,No,No,4B9YD3X,CHINA,Shanghai,,,no record,05/07/2019,,disposal at 07 May 2019
+Desktop,,,Dell,OptiPlex 390DT,No,No,No,6B9YD3X,CHINA,Shanghai,,,no record,05/07/2019,,disposal at 07 May 2019
+Desktop,DFMNM,185,Dell,OptiPlex 7010,Yes,Yes,Yes,31RQHY1,CHINA,Hong Kong,HKPCQHY1,Spare,09/11/2013,,,
+Desktop,DFMNM,184,Dell,OptiPlex 7010,Yes,Yes,Yes,5P5VHY1,CHINA,Hong Kong,HKPC5P5V,Eric Chung,09/05/2013,,,
+Desktop,FCHKM,766,Dell,OptiPlex 7010,Yes,No,No,7T634W1,CHINA,Hong Kong,HKPC34W1,Spare,no record,,,still in use
+Desktop,DFMNM,182,Dell,OptiPlex 7010,Yes,Yes,Yes,B1RQHY1,CHINA,Hong Kong,B1RQHY1-PC,Alex TSANG,09/05/2013,,,
+Desktop,DFMNM,186,Dell,OptiPlex 7010,Yes,Yes,Yes,FN5VHY1,CHINA,Hong Kong,HKPCFN5V,Morris LING,09/11/2013,,,
+Desktop,DFMNM,183,Dell,OptiPlex 7010,Yes,Yes,Yes,JN5VHY1,CHINA,Hong Kong,HKPCVHY1,Herman CHAN,09/05/2013,,,
+Desktop,DFMNM,97,HP,ProDesk 400 G2,Yes,No,Yes,4CV4375H1L,CHINA,ShangHai,,Spare,12/10/2014,,,Not in use and keeping in Meeting Room
+Desktop,DFMNM,98,HP,ProDesk 400 G2,Yes,No,Yes,4CV4375H1M,CHINA,ShangHai,,Spare,12/10/2014,,,Not in use and keeping in Meeting Room
+Desktop,DFMNM,99,HP,ProDesk 400 G2,No,No,Yes,4CV4375H1N,CHINA,ShangHai,,,12/10/2014,05/07/2019,,disposal at 07 May 2019
+Desktop,DFMNM,102,HP,ProDesk 400 G2,Yes,Yes,Yes,4CV4375H1P,CHINA,ShangHai,4CV4375H1P-PC,Agatha FEI,12/10/2014,,,
+Desktop,DFMNM,100,HP,ProDesk 400 G2,Yes,Yes,Yes,4CV4375H1Q,CHINA,ShangHai,HKPC5H1Q,Kevin Zhu Shengye,12/10/2014,,,
+Desktop,DFMNM,101,HP,ProDesk 400 G2,No,No,Yes,4CV4375H1R,CHINA,ShangHai,,,12/10/2014,05/07/2019,,disposal at 07 May 2019
+Desktop,DFMNM,103,HP,ProDesk 400 G2,Yes,Yes,Yes,4CV4375H1S,CHINA,ShangHai,HKPC5H1S,Amy Shi,12/10/2014,,,
+Desktop,DFMNM,198,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR4459Z3M,CHINA,Hong Kong,HKPC9Z3M,John Law,04/14/2015,,,
+Desktop,DFMNM,200,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR5063FND,CHINA,Hong Kong,HKPC3FND,Joyce FUNG,04/15/2015,,,
+Desktop,DFMNM,199,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR5063FPD,CHINA,Hong Kong,HKPC3FPD,Sammie CHAU,04/15/2015,,,
+Desktop,DFMNM,202,HP,ProDesk 400 G2,Yes,No,Yes,6CR5063FQB,CHINA,Hong Kong,HKPC3FQB,Spare,04/15/2015,,,
+Desktop,DFMNM,201,HP,ProDesk 400 G2,Yes,No,Yes,6CR5063FQQ,CHINA,Hong Kong,HKPC3FQQ,Spare,04/15/2015,,,
+Desktop,DFMNM,110,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR51274LS,CHINA,Hong Kong,HKPC74LS,Kent WAN,06/16/2015,,,
+Desktop,DFMNM,108,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR51274LY,CHINA,Hong Kong,HKPC74LY,Nelson Lau,06/16/2015,,,
+Desktop,DFMNM,112,HP,ProDesk 400 G2,Yes,No,Yes,6CR51274M7,CHINA,Hong Kong,HKPC74M7,Spare,06/18/2015,,,
+Desktop,DFMNM,114,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR51274MC,CHINA,Hong Kong,HKPC74MC,Sophie LEUNG,06/16/2015,,,
+Desktop,DFMNM,109,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR51274MG,CHINA,Hong Kong,HKPC74MG,Victoria Sze,06/16/2015,,,
+Desktop,DFMNM,118,HP,ProDesk 400 G2,Yes,No,Yes,6CR51274MJ,CHINA,Hong Kong,6CR51274MJ-PC,Spare,10/27/2015,,,
+Desktop,DFMNM,111,HP,ProDesk 400 G2,Yes,No,Yes,6CR51274MM,CHINA,Hong Kong,HKPC74MM,Spare,06/16/2015,,,
+Desktop,,,HP,ProDesk 400 G2,Yes,Yes,No,6CR5343R2B,CHINA,Hong Kong,HKPC3R2B,Keith Chan,no record,,,
+Desktop,DFMNM,113,HP,ProDesk 400 G2,Yes,Yes,Yes,6CR5343R2S,CHINA,Hong Kong,HKPC3R2S,Jay Miu,06/16/2015,,,
+Desktop,DFMNM,105,HP,ProDesk 600 G3,Yes,Yes,Yes,6CR5031F16,CHINA,Hong Kong,6CR5031F16-PC,Peter SU,05/06/2015,,,
+Desktop,FTJNM,60,Lenovo,S710,Yes,No,Yes,ws90292292,CHINA,Tianjin,,Tianjin Office,04/30/2012,,,suggest to disposal / no value
+Desktop,FTJNM,61,Lenovo,S710,Yes,No,Yes,ws90427208,CHINA,Tianjin,,Tianjin Office,04/30/2012,,,suggest to disposal / no value
+Desktop,FTJNM,62,Lenovo,S710,Yes,No,Yes,ws90427292,CHINA,Tianjin,,Tianjin Office,04/30/2012,,,suggest to disposal / no value
+Desktop,FTJNM,63,Lenovo,S710,Yes,No,Yes,ws90427299,CHINA,Tianjin,,Tianjin Office,04/30/2012,,,suggest to disposal / no value
+Desktop,,,Lenovo,ThinkCentre A85,Yes,No,No,R85ZBYY,CHINA,Hong Kong,Patrick-Win7,Spare,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre A85,Yes,No,No,R85ZBZA,CHINA,Hong Kong,,Ding Zong,no record,,,damaged
+Desktop,,,Lenovo,ThinkCentre A85,No,No,No,R8R5V0L,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,FCHKM,710,Lenovo,ThinkCentre A85,Yes,No,No,R8T6ZMB,CHINA,Hong Kong,HKPC6ZMB,Spare,no record,,,still in use
+Desktop,FCHKM,711,IBM,ThinkCentre A85,No,No,No,R8T6ZMD,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,FCHKM,709,IBM,ThinkCentre A85,No,No,No,R8V1MBH,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,,,Lenovo,ThinkCentre Edge 72,Yes,No,No,PBTEYBV,ASIA,Singapore,,Spare,no record,,,"already write off, waiting recycle vendor collect, not in use and keeping in Cabinet"
+Desktop,,,Lenovo,ThinkCentre Edge 72,Yes,No,No,PBTEYBW,ASIA,Singapore,,Spare,no record,,,"already write off, waiting recycle vendor collect, not in use and keeping in Cabinet"
+Desktop,FCHKM,744,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,PBZPB44,CHINA,Hong Kong,HKPCPB44,Kris CHEUNG,no record,,,still in use
+Desktop,FCHKM,745,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,PBZPD98,CHINA,Hong Kong,HKPCPD98,Lulu POON,no record,,,still in use
+Desktop,FCHKM,742,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,PBZPE00,CHINA,Hong Kong,HKPCPE00,Venus LAM,04/30/2012,,,still in use
+Desktop,FCHKM,743,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,PBZPE01,CHINA,Hong Kong,HKPCPE01,Jason Poon,no record,,,still in use
+Desktop,FCHKM,746,Lenovo,ThinkCentre Edge 91,Yes,No,No,PBZPG94,CHINA,Hong Kong,HKPCPG94,Spare,no record,,,still in use
+Desktop,FCHKM,747,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,PBZPG95,CHINA,Hong Kong,HKPCPG95,Patsy TANG,no record,,,still in use
+Desktop,FCHKM,717,Lenovo,ThinkCentre Edge 91,Yes,No,No,R8EG7R6,CHINA,Hong Kong,HKPCG7R6,Spare,09/30/2011,,,still in use
+Desktop,FCHKM,716,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,R8EG7R8,CHINA,Hong Kong,HKPCG7R8,Marcus LEUNG,no record,,,still in use
+Desktop,FCHKM,715,Lenovo,ThinkCentre Edge 91,Yes,No,No,R8EG7R9,CHINA,Hong Kong,HKPCG7R9,Spare,09/30/2011,,,still in use
+Desktop,FCHKM,732,Lenovo,ThinkCentre Edge 91,Yes,No,No,R8GLH6N,CHINA,Hong Kong,,Spare,01/31/2012,,,still in use
+Desktop,FCHKM,734,Lenovo,ThinkCentre Edge 91,Yes,No,No,R8GLX9Y,CHINA,Hong Kong,HKPCLX9Y,Spare,01/31/2012,,,
+Desktop,FCHKM,733,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,R8GMT0B,CHINA,Hong Kong,HKPCMT0B,Christine WAN,no record,,,still in use
+Desktop,FCHKM,735,Lenovo,ThinkCentre Edge 91,Yes,No,No,R8HLZ8E,CHINA,Hong Kong,HKPCLZ8E,Spare,01/31/2012,,,still in use
+Desktop,FCHKM,736,Lenovo,ThinkCentre Edge 91,Yes,Yes,No,R8HLZ8F,CHINA,Hong Kong,HKPCLZ8F,Po Wong,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre Edge 92,Yes,Yes,No,PB8B5RV,CHINA,Hong Kong,HKPCB5RV,Tony TO,no record,,,still in use
+Desktop,FCHKM,754,Lenovo,ThinkCentre Edge 92,Yes,Yes,No,PBEVRNE,CHINA,Hong Kong,HKPCVRNE,Carry Chan,no record,,,still in use
+Desktop,FCHKM,434,IBM,ThinkCentre M52,No,No,No,L3CY264,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,,,Lenovo,ThinkCentre M57,No,No,No,L3E6447,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,FCHKM,643,IBM,ThinkCentre M58p,No,No,No,R803M6A,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,FCHKM,644,IBM,ThinkCentre M58p,No,No,No,R803M6B,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,FCHKM,912,Lenovo,ThinkCentre M720s,Yes,Yes,Yes,PC10D7AA,CHINA,Hong Kong,HKPCD7AA,Jenny Chong,12/12/2018,,,
+Desktop,FCHKM,913,Lenovo,ThinkCentre M720s,Yes,Yes,Yes,PC10D7AB,CHINA,Hong Kong,HKPCD7AB,Venus Lam,12/12/2018,,,
+Desktop,FCHKM,914,Lenovo,ThinkCentre M720s,Yes,Yes,Yes,PC10D7AC,CHINA,Hong Kong,HKPCD7AC,Amy Wong,12/12/2018,,,
+Desktop,FCHKM,915,Lenovo,ThinkCentre M720s,Yes,Yes,Yes,PC10D7AD,CHINA,Hong Kong,HKPCD7AD,Mabel Peng,12/21/2018,,,
+Desktop,FCHKM,916,Lenovo,ThinkCentre M720s,Yes,Yes,Yes,PC10D7AE,CHINA,Hong Kong,HKPCD7AE,Steven Ip,12/21/2018,,,
+Desktop,FMACM,154,Lenovo,ThinkCentre M720t,Yes,No,Yes,PC10D6RB,CHINA,Hong Kong,,Macau Server,21/12/2018,,,
+Desktop,,,Lenovo,ThinkCentre M820T,Yes,Yes,No,90010513Y26V,CHINA,Shanghai,,Spare,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre M8400s,No,No,No,EA06931161,CHINA,Shanghai,,,no record,05/07/2019,,disposal at 07 May 2019
+Desktop,,,Lenovo,ThinkCentre M8400s,No,No,No,NA18431373,CHINA,Shanghai,,,no record,05/07/2019,,disposal at 07 May 2019
+Desktop,,,Lenovo,ThinkCentre M8400s,Yes,Yes,No,NA18431374,CHINA,Shanghai,WS-WENDYHAN,Cathy XU,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre M8500t,Yes,Yes,No,NA23096511,CHINA,Shanghai,,Sophia Yue,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre M8500t,Yes,Yes,No,SA17029180,CHINA,Shanghai,ws-chunlu,Hyde Huang,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre M8500t,No,No,No,SA18247270,CHINA,Shanghai,,,no record,05/07/2019,,disposal at 07 May 2019
+Desktop,FMACM,149,Lenovo,ThinkCentre M900,Yes,No,Yes,PC0GXJZ1,CHINA,Hong Kong,,Spare,12/31/2016,,,
+Desktop,FMACM,150,Lenovo,ThinkCentre M900,Yes,No,Yes,PC0GXJZ2,CHINA,Hong Kong,,Spare,12/31/2016,,,
+Desktop,FCHKM,874,Lenovo,ThinkCentre M900,Yes,No,Yes,PC0GXJZ3,CHINA,Hong Kong,HKPCXJZ3,Spare,12/31/2016,,,
+Desktop,FCHKM,872,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXJZ4,CHINA,Hong Kong,HKPCXJZ4,Josie CHAN,12/31/2016,,,
+Desktop,FCHKM,873,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXJZ5,CHINA,Hong Kong,HKPCXJZ5,Wendy YU,12/31/2016,,,
+Desktop,FCHKM,869,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXL4T,CHINA,Hong Kong,HKPCXL4T,Smauel Chunk,12/31/2016,,,
+Desktop,FCHKM,868,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXL4U,CHINA,Hong Kong,HKPCXL4U,Vivian LAU,12/31/2016,,,
+Desktop,FCHKM,870,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXL4V,CHINA,Hong Kong,HKPCXL4V,Lavender LONG,12/31/2016,,,
+Desktop,FCHKM,871,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXL4W,CHINA,Hong Kong,HKPCXL4W,Angela ZHANG,12/31/2016,,,
+Desktop,FCHKM,867,Lenovo,ThinkCentre M900,Yes,Yes,Yes,PC0GXL4X,CHINA,Hong Kong,HKPCXL4X,Venus LEE,12/31/2016,,,
+Desktop,FCHKM,667,Lenovo,ThinkCentre M90P,Yes,Yes,No,R80DM2V,CHINA,Hong Kong,HKPCDM2V,HR Dept,no record,,,still in use
+Desktop,,,Lenovo,ThinkCentre M90p,Yes,No,No,R80DM2T,CHINA,Hong Kong,,Spare,no record,,,still in use
+Desktop,FCHKM,876,Lenovo,ThinkCentre M910s,Yes,Yes,Yes,PC0LW098,CHINA,Hong Kong,HKPCW098,Joanne Huang,06/30/2017,,,
+Desktop,FCHKM,878,Lenovo,ThinkCentre M910s,Yes,Yes,Yes,PC0LW099,CHINA,Hong Kong,HKPCW099,Doris Kong,06/30/2017,,,
+Desktop,FCHKM,877,Lenovo,ThinkCentre M910s,Yes,Yes,Yes,PC0LW09A,CHINA,Hong Kong,HKPCW09A,Ding TSANG,06/30/2017,,,
+Desktop,FCHKM,880,Lenovo,ThinkCentre M910s,Yes,Yes,Yes,PC0LW09B,CHINA,Hong Kong,HKPCW09B,Aretha LAU,06/30/2017,,,
+Desktop,FCHKM,879,Lenovo,ThinkCentre M910s,Yes,Yes,Yes,PC0LW09C,CHINA,Hong Kong,HKPCW09C,Anna ZHU,06/30/2017,,,
+Desktop,FCITM,74,Lenovo,ThinkCentre M910s,Yes,Yes,Yes,S4CF7702,EUROP,Genoa,EUPC7702,Donatella SARDIELLO,10/31/2017,,,
+Desktop,FTJNM,68,Lenovo,ThinkCentre M910t,Yes,Yes,Yes,M7079BGC,CHINA,Shanghai,HKPC9BGC,Ian Zhang,12/31/2018,,,
+Desktop,FCHKM,875,Lenovo,ThinkCentre M910t,Yes,Yes,Yes,PC0LCF1B,CHINA,Hong Kong,HKPCCF1B,Owen CHAN,06/30/2017,,,
+Desktop,FTJNM,75,Lenovo,ThinkCentre M920t,Yes,Yes,Yes,M709XKJT,CHINA,ShangHai,HKPCXKJT,Cathy Xu,04/17/2019,,,
+Desktop,FCHKM,797,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PB5ALLB,CHINA,Hong Kong,HKPCALLB,Ernest Leung,10/31/2013,,,
+Desktop,FCHKM,799,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PB5ALLH,CHINA,Hong Kong,HKPCALLH,Lemon Lee,10/31/2013,,,
+Desktop,FCHKM,800,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PB5ALLK,CHINA,Hong Kong,HKPCALLK,Lewis Chui,10/31/2013,,,
+Desktop,FCHKM,798,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PB5ALLL,CHINA,Hong Kong,HKPCALLL,Pingu Lee,10/31/2013,,,
+Desktop,FCHKM,812,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PBM5AAB,CHINA,Hong Kong,HKPC5AAB,Annie Lau,12/31/2013,,,
+Desktop,FCHKM,813,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PBM5AAC,CHINA,Hong Kong,HKPC5AAC,Jerry CHENG,12/31/2013,,,
+Desktop,FCHKM,815,Lenovo,ThinkCentre M92P,Yes,No,Yes,PBM5AAD,CHINA,Hong Kong,WS-Doris-Win7,Spare,12/31/2013,,,
+Desktop,FCHKM,814,Lenovo,ThinkCentre M92P,Yes,Yes,Yes,PBM5AAE,CHINA,Hong Kong,HKPC5AAE,Ken AU YEUNG,12/31/2013,,,
+Desktop,FCHKM,816,Lenovo,ThinkCentre M92P,Yes,No,Yes,PBM5AAF,CHINA,Hong Kong,,Deng Huangjun,12/31/2013,,,damaged
+Desktop,FCHKM,820,Lenovo,ThinkCentre M93,Yes,Yes,Yes,PB02M7FR,CHINA,Hong Kong,HKPCM7FR,Bruce Wong,07/31/2014,,,
+Desktop,FCHKM,819,Lenovo,ThinkCentre M93,Yes,No,Yes,PB02M7FS,CHINA,Hong Kong,,Spare,07/31/2014,,,damaged (Su)
+Desktop,FCHKM,818,Lenovo,ThinkCentre M93,Yes,Yes,Yes,PB02M7FT,CHINA,Hong Kong,HKPCM7FT,Ronald Cheng,07/31/2014,,,
+Desktop,FCHKM,821,Lenovo,ThinkCentre M93,Yes,Yes,Yes,PB02M7FU,CHINA,Hong Kong,WS-KinHing,KWOK Kin Hing,07/31/2014,,,
+Desktop,FCHKM,822,Lenovo,ThinkCentre M93,Yes,Yes,Yes,PB02M7FV,CHINA,Hong Kong,HKPCM7FV,Andy Poon,07/31/2014,,,
+Desktop,FCHKM,837,Lenovo,ThinkCentre M93P,Yes,Yes,No,PC09LA4Y,CHINA,Hong Kong,HKPCLA4Y,Patrick Lee,no record,,,still in use
+Desktop,FCHKM,839,Lenovo,ThinkCentre M93P,Yes,Yes,Yes,PC09LA4Z,CHINA,Hong Kong,WS-Tonny-16,Tonny POON,12/31/2015,,,
+Desktop,FCHKM,838,Lenovo,ThinkCentre M93P,Yes,Yes,Yes,PC09LA50,CHINA,Hong Kong,WS-Novent-16,Noven TANG,12/31/2015,,,
+Desktop,DFMNM,126,Dell,Vostro 220,No,No,No,5WLDMBX,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,DFMNM,167,Dell,Vostro 260X,No,No,No,29L1YBX,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,DFMNM,159,Dell,Vostro 260X,No,No,No,56T6VBX,CHINA,Hong Kong,56T6VBX-PC,,no record,05/12/2018,,Collected by Caritas
+Desktop,DFMNM,172,Dell,Vostro 260X,No,No,No,56Y5XBX,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,DFMNM,174,Dell,Vostro 260X,No,No,No,7RD34W1,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,DFMNM,147,Dell,Vostro 260X,No,No,No,853TVBX,CHINA,Hong Kong,Manlau-PC,,no record,05/12/2018,,Collected by Caritas
+Desktop,DFMNM,154,Dell,Vostro 260X,No,No,No,B6MBHT1,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Desktop,FCHKM,749,Dell,Vostro 360,Yes,Yes,No,8QQKBQ1,CHINA,Hong Kong,WS-Lydia,Lydia CHEUNG,no record,,,still in use
+Desktop,FCHKM,833,Apple,iMac 21.5,Yes,Yes,Yes,C02QK09LGG7D,CHINA,Hong Kong,,Steven Wong,11/30/2015,,,
+Laptop,DFMNM,208,ASUS,A43SD,Yes,No,No,BBN0BC222900475,CHINA,Hong Kong,,Spare,no record,,,"already write off, waiting recycle vendor collect"
+Laptop,DFMNM,213,Apple,Apple iPad 32GB Wi-Fi III,Yes,No,Yes,N/A,CHINA,ShangHai,,Spare,12/07/2012,,,keep by Jessie Li
+Laptop,DFMNM,214,Apple,Apple iPad 32GB Wi-Fi IV,Yes,No,Yes,DMPJK058F183,CHINA,Hong Kong,,IT Dept,12/07/2012,,,
+Laptop,DFMNM,179,HP,Envy Pro,Yes,No,No,CND2371VWM,CHINA,ShangHai,,Spare,no record,,,"already write off, waiting recycle vendor collect, Not in use and keeping in Meeting Room"
+Laptop,FJERM,166,HP,HP2510P,No,No,Yes,,US,New Jersey,,N/A,01/31/2009,,,suggest to disposal (Rich) / no value
+Laptop,FCHKM,888,Apple,IPAD PRO 10.5-64GB,Yes,Yes,Yes,,CHINA,Hong Kong,,Peter Su,08/31/2017,,,
+Laptop,,,Dell,Inspiron / 510m,No,No,No,B235N1X,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FJERM,197,Dell,Inspiron 5567,Yes,Yes,Yes,27F9Y32,US,New Jersey,USNB9Y32,Patrick Fierro,10/31/2017,,,
+Laptop,FJERM,196,Dell,Inspiron 5567,Yes,Yes,Yes,6G2BY32,US,New Jersey,USNBBY32,Lisa Hall,09/30/2017,,,
+Laptop,FJERM,199,Dell,Inspiron 5567,Yes,Yes,Yes,8CW6Y32,US,New Jersey,USNB6Y32,Ana Tambini,10/31/2017,,,
+Laptop,DFMNM,231,Dell,Inspiron 7537,Yes,No,Yes,HTYD2Z1,CHINA,ShangHai,FHUANG-PC,Spare,02/27/2014,,,
+Laptop,FJERM,162,Lenovo,L3K V220 DVDR,Yes,No,Yes,,US,New Jersey,,Spare,04/30/2008,,,suggest to disposal (Rich) / no value
+Laptop,,,Dell,Latitude E4310,No,No,No,B8R73Q1,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FJERM,180,Dell,Latitude E4310,No,No,Yes,N/A,US,New Jersey,,N/A,04/30/2011,,,suggest to disposal not found / no value
+Laptop,FJERM,181,Dell,Latitude E4310,Yes,No,Yes,,US,New Jersey,,Spare,05/31/2011,,,suggest to disposal (Mark) / no value
+Laptop,FJERM,179,Dell,Latitude E4310,Yes,No,Yes,,US,New Jersey,,Spare,03/31/2011,,,suggest to disposal (Lisa) / no value
+Laptop,FSFOM,854,Dell,Latitude E5470,Yes,Yes,Yes,36XRQF2,US,San Francisco,USNBRQF2,Joseph DONG,02/28/2017,,,
+Laptop,FJERM,195,Dell,Latitude E5470,Yes,Yes,Yes,4CLZL72,US,New Jersey,DANLIAW-PC,Dan Liaw,11/30/2016,,,
+Laptop,,,Dell,Latitude E6220,No,No,No,HB14XP1,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FJERM,188,Dell,Latitude E6230,No,No,No,64ZJGV1,CHINA,Hong Kong,,,08/31/2012,05/12/2018,,Collected by Caritas / suggest to disposal (MARCELLO) / no value
+Laptop,,,Dell,Latitude E6230,Yes,No,No,7TNDLX1,US,New Jersey,LT-JCHEN,Chen Jian,no record,,,write off SF disposed
+Laptop,FJERM,187,Dell,Latitude E6320,Yes,No,Yes,,US,New Jersey,,Spare,05/31/2012,,,suggest to disposal (MILADY) / no value
+Laptop,FCGEM,36,Dell,Latitude E6420,Yes,No,Yes,195BBS1,EUROP,Hamburg,,Spare,03/01/2012,,,Not in use and keeping in Cabinet
+Laptop,FCGEM,35,Dell,Latitude E6420,Yes,Yes,Yes,64607R1,EUROP,Hamburg,,Thore Georg WINDEIT,03/01/2012,,,loan out of office
+Laptop,FCITM,73,Dell,Latitude E6440,Yes,No,Yes,5LDQVY1,EUROP,Genoa,LT-MPRANDO2,Spare,04/30/2014,,,suggest to disposal MON broken / have value
+Laptop,FCGEM,29,Dell,Latitude E6440,Yes,No,Yes,7XJHTZ1,EUROP,Hamburg,,Spare,04/30/2014,,,Not in use and keeping in Rack (Detlef Old)
+Laptop,FJERM,191,Dell,Latitude E6440,Yes,No,Yes,GDTVTZ1,US,New Jersey,USNBVTZ1,Spare,03/31/2014,,,Not in use and keep in Cabinet
+Laptop,DFSNM,18,Lenovo,Lenovo ThinkPad X240 Laptop,No,No,Yes,PC005K6M,ASIA,Singapore,,N/A,07/01/2016,,,suggest to disposal lost 03 Oct 2017 (Catherine Koh lost in Taxi when travel Hong Kong)
+Laptop,,,Toshiba,Portege R700,No,No,No,9A123673H,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,DFMNM,207,Toshiba,Portege R830,No,No,No,9B134056H,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,DFMNM,197,Dell,Precision M3800,Yes,Yes,Yes,296PD12,CHINA,Hong Kong,HKNB296P,Eric Chung,05/14/2014,,,
+Laptop,DFMNM,193,Dell,Precision M3800,Yes,No,Yes,586PD12,CHINA,Hong Kong,HKNB586P,Spare,05/14/2014,,,
+Laptop,DFMNM,195,Dell,Precision M3800,Yes,Yes,Yes,786PD12,CHINA,Hong Kong,HKNBPD12,Meeting room,05/14/2014,,,managed by Ronald Cheng
+Laptop,DFMNM,192,Dell,Precision M3800,Yes,No,Yes,C8XHF12,CHINA,Hong Kong,HKNBHF12,Spare,05/14/2014,,,
+Laptop,DFMNM,196,Dell,Precision M3800,No,No,No,D66PD12,CHINA,Hong Kong,,N/A,05/14/2014,31/12/2018,,Disposed by GMD in Dec 2018
+Laptop,DFMNM,194,Dell,Precision M3800,Yes,Yes,Yes,FJ6PD12,CHINA,Hong Kong,,Morris Ling,05/14/2014,,,
+Laptop,,,Sony,S Series VPCSB18GG,No,No,No,2.75392E+14,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,DFMNM,232,Samsung,Sam Sung Tab,Yes,No,Yes,RF1C902AD4D,CHINA,Hong Kong,,Spare,05/21/2014,,,Not in use and keep in Cabinet
+Laptop,FJERM,96,Toshiba,Satellite Pro 4600,Yes,No,Yes,S21246377U,US,New Jersey,,Spare,03/01/2001,,,suggest to disposal (Mark) / no value
+Laptop,FJERM,153,Sony,Sony Viao T370 Laptop Bundle,Yes,No,Yes,,US,New Jersey,,Spare,05/01/2006,,,suggest to disposal (Mark) / no value
+Laptop,FSAVM,1,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0T9WWU,US,Savannah,USNB9WWU,Tim Tebeau,11/30/2017,,,
+Laptop,FCGEM,65,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0TJUD5,EUROP,Hamburg,EUNBJUD5,Alicja Binas,10/31/2017,,,
+Laptop,FCGEM,63,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0TJUE9,EUROP,Hamburg,EUNBJUE9,Carsten SEIER,10/31/2017,,,
+Laptop,FCGEM,64,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0TJWKH,EUROP,Hamburg,EUNBJWKH,Lars BOLLMANN,10/31/2017,,,
+Laptop,FMEMM,1,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0V4V2E,US,Memphis,USNB4V2E,Chett Hickman,11/30/2017,,,
+Laptop,FCGEM,66,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0V9WTX,EUROP,Hamburg,EUNB9WTX,Bernd FROMMER,10/31/2017,,,
+Laptop,FSFOM,856,Lenovo,ThinkPad E470,Yes,No,Yes,PF0WP6UQ,US,Georgia,USNBP6UQ,Jonathan Culver,11/30/2017,,,
+Laptop,FHSTM,2,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0ZK1RE,US,Houston,USNBK1RE,Jay Lee,02/28/2018,,,
+Laptop,FJERM,198,Lenovo,ThinkPad E470,Yes,Yes,Yes,PF0ZNX5X,EUROP,Genoa,USNBNX5X,Jeffrey Bonner,10/31/2017,,,
+Laptop,FCHKM,936,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1K80LS,China,Hong Kong,HKNB80LS,FIN Dept,07/16/2019,,,keep by Kris Cheung
+Laptop,FCHKM,937,Lenovo,ThinkPad E490,Yes,No,Yes,PF1KEPFF,China,Hong Kong,,Spare,07/15/2019,,,keep in IT store room
+Laptop,FCGEM,69,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1M9N38,EUROP,Hamburg,EUNB9N38,Jan Kubisch,06/21/2019,,,
+Laptop,FCHKM,928,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1NXLL4,US,Miami,HKNBXLL4,Marcelo Maia,17/04/2019,,,
+Laptop,FCHKM,929,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1NXLLB,CHINA,Hong Kong,HKNBXLLB,Louis Li,17/04/2019,,,
+Laptop,FJERM,206,Lenovo,ThinkPad E490,Yes,No,Yes,PF1QS0Y6,US,New Jersey,,Spare,07/16/2019,,,keep in NJ office
+Laptop,FJERM,205,Lenovo,ThinkPad E490,Yes,No,Yes,PF1QS0YV,US,New Jersey,,Spare,07/16/2019,,,keep in NJ office
+Laptop,FCHKM,932,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1RBW47,China,Hong Kong,HKNBBW47,Connie Kang,06/19/2019,,,
+Laptop,FCITM,76,Lenovo,ThinkPad E580,Yes,Yes,No,PF15R9W2,EUROP,Genoa,EUNBR9W2,Gabriel Matriez Cotes,10/31/2018,,,Disposed by GMD in Dec 2018
+Laptop,FJERM,204,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF16FSQ5,US,Houston,USNBFSQ5,Gary Petter,10/31/2018,,,
+Laptop,FCHIM,1,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF16FSSH,US,Chicago,USNBFSSH,Dean Beushausen,10/31/2018,,,
+Laptop,DFSNM,22,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF1EKNZW,ASIA,Singapore,HKNBKNZW,Ling Yap,10/31/2018,,,
+Laptop,FCGEM,68,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF1MSKQZ,EUROP,Hamburg,EUNBSKQZ,Lynne Pan,,,,
+Laptop,,,Lenovo,ThinkPad R61i,No,No,No,L3T2627,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,592,Lenovo,ThinkPad T400,No,No,No,L3CMX1D,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,598,Lenovo,ThinkPad T400,No,No,No,L3CWB9E,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FJERM,172,Lenovo,ThinkPad T400,Yes,No,Yes,,US,New Jersey,,Spare,03/31/2010,,,suggest to disposal (Rich) / no value
+Laptop,FCGEM,25,Lenovo,ThinkPad T400,Yes,No,No,,EUROP,Hamburg,,Spare,no record,,,"already write off, waiting recycle vendor collect, not in use and keeping in Server Room"
+Laptop,FCHKM,2,Lenovo,ThinkPad T410,No,No,No,R84LBLX,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,,,Lenovo,ThinkPad T410,Yes,No,No,R8W899B,CHINA,Hong Kong,,Spare,no record,,,still in use for Meeting Room
+Laptop,FCGEM,33,Lenovo,ThinkPad T410,Yes,No,No,R8X201T,EUROP,Hamburg,,Spare,no record,,,"already write off, waiting recycle vendor collect, not in use and keeping in Server Room"
+Laptop,DFMNM,217,Lenovo,ThinkPad T430,No,No,No,N/A,CHINA,Hong Kong,,N/A,05/06/2013,31/12/2018,,Disposed by GMD in Dec 2018
+Laptop,DFSNM,14,Lenovo,ThinkPad T430,Yes,No,Yes,PB0X1MG,CHINA,Hong Kong,,Spare,03/15/2013,,,Not in use and keep in Cabinet
+Laptop,DFMNM,215,Lenovo,ThinkPad T430,Yes,No,Yes,PB2GB50,CHINA,Hong Kong,HKNBGB50,Fault,05/06/2013,,,power fault
+Laptop,DFMNM,229,Lenovo,ThinkPad T430,Yes,No,Yes,PB2GB51,CHINA,ShangHai,PB2GB51-NB,Spare,02/10/2014,,,
+Laptop,DFMNM,216,Lenovo,ThinkPad T430,Yes,Yes,Yes,PB5W33M,CHINA,Hong Kong,HKNBW33M,Ronald Cheng,05/06/2013,,,Loan by Ronald
+Laptop,DFMNM,188,Lenovo,ThinkPad T430,Yes,No,Yes,PBD8BK4,CHINA,Hong Kong,HKNB8BK4,Spare,10/30/2013,,,Loan by Ronald
+Laptop,DFMNM,189,Lenovo,ThinkPad T430,No,No,No,PBF1YM0,CHINA,Hong Kong,,N/A,10/30/2013,31/12/2018,,Disposed by GMD in Dec 2018
+Laptop,DFMNM,187,Lenovo,ThinkPad T430,Yes,No,Yes,PBR70VL,CHINA,Hong Kong,HKNB70VL,Spare,10/30/2013,,,Not in use and keep in Cabinet
+Laptop,DFMNM,228,Lenovo,ThinkPad T440P,Yes,No,Yes,PB0090NH,US,Houston,HKNB90NH,Spare,12/31/2013,,,Jamie Zhang
+Laptop,DFMNM,219,Lenovo,ThinkPad T440P,Yes,No,Yes,PB0090NJ,CHINA,Hong Kong,HKNB90NJ,Spare,12/31/2013,,,
+Laptop,DFMNM,223,Lenovo,ThinkPad T440P,Yes,No,Yes,PB0090NL,CHINA,Hong Kong,HKNB90NL,Spare,12/31/2013,,,collect back - Tim Wu
+Laptop,DFMNM,221,Lenovo,ThinkPad T440P,Yes,Yes,Yes,PB0090NM,CHINA,Hong Kong,HKNB90NM,Jason Poon,12/31/2013,,,
+Laptop,DFMNM,220,Lenovo,ThinkPad T440P,Yes,Yes,Yes,PB0090YT,CHINA,ShangHai,HKNB90YT,Kevin Mo,12/31/2013,,,
+Laptop,DFMNM,227,Lenovo,ThinkPad T440P,Yes,No,Yes,PB0090YV,CHINA,Hong Kong,HKNB90YV,Spare,12/31/2013,,,Not in use and keep in Cabinet
+Laptop,DFMNM,222,Lenovo,ThinkPad T440P,Yes,Yes,Yes,PB0090YW,CHINA,Hong Kong,HKNB90YW,Meeting room,12/31/2013,,,
+Laptop,DFSNM,15,Lenovo,ThinkPad T440p,Yes,No,Yes,PB002DEZ,CHINA,Hong Kong,HKNB2DEZ,Spare,05/14/2014,,,
+Laptop,DFMNM,226,Lenovo,ThinkPad T440p,Yes,Yes,Yes,PB0090NK,EUROP,Hamburg,HKNB90NK,Carsten Schonfeld,12/31/2013,,,
+Laptop,DFMNM,225,Lenovo,ThinkPad T440p,Yes,Yes,Yes,PB0090YS,US,Georgia,HKNB90YS,Jonathan Culver,12/31/2013,,,
+Laptop,DFMNM,224,Lenovo,ThinkPad T440p,Yes,No,Yes,PB0090YU,US,Chandler,HKNB90YU,Spare,12/31/2013,,,Christine JUNG
+Laptop,FMACM,147,Lenovo,ThinkPad T450,Yes,Yes,Yes,PC05J9GQ,CHINA,Shanghai,HKNBJ9GQ,CHEN Shu,08/31/2015,,,
+Laptop,FCGEM,30,Lenovo,ThinkPad T450,Yes,Yes,Yes,PC061QJT,EUROP,Hamburg,LT-ZHAOTIEJUN,ZHAO Tiejun,07/31/2015,,,
+Laptop,FJERM,203,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0T9UTP,US,San Francisco,USNB9UTP,Lucy Soto,12/31/2017,,,
+Laptop,FJERM,202,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0THGX6,US,Miami,USNBHGX6,Cristian Dhers,12/31/2017,,,
+Laptop,FJERM,201,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0THGXF,US,Chandler,USNBHGXF,Catherine Lee,12/31/2017,,,
+Laptop,FPHXM,2,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0THGYG,US,Chandler,USNBHGYG,Jamie KIM,12/31/2017,,,
+Laptop,FTJNM,67,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0WXWWP,CHINA,Shanghai,HKNBXWWP,Chen Wei,12/31/2017,,,
+Laptop,FTJNM,69,Lenovo,ThinkPad T480,Yes,Yes,Yes,PF0YZ6A2,CHINA,Shanghai,HKNBZ6A2,Lesley Zhang,12/31/2018,,,
+Laptop,FTJNM,98,Lenovo,ThinkPad T480,Yes,Yes,TBC,PF1FJAJ7,China,Shanghai,HKNBJAJ7,Wendy Ding,07/15/2019,,,
+Laptop,FHSTM,3,Lenovo,ThinkPad T480,Yes,Yes,Yes,PF1KQF2H,US,Houston,USNBQF2H,Jake Jacobsen,03/18/2019,,,
+Laptop,FTJNM,64,Lenovo,ThinkPad T530,Yes,Yes,Yes,R9YHHVW,CHINA,Shanghai,HKNBHHVW,FIN Dept,09/30/2013,,,
+Laptop,FTJNM,65,Lenovo,ThinkPad T530,Yes,No,Yes,R9YHHVX,CHINA,Hong Kong,HKNBHHVX,Spare,09/30/2013,,,
+Laptop,FTJNM,74,Lenovo,ThinkPad T580,Yes,Yes,Yes,R90SHSNW,CHINA,ShangHai,HKNBHSNW,Huang Feng,03/08/2019,,,
+Laptop,FVANM,1,Lenovo,ThinkPad T580,Yes,Yes,Yes,R90SWPE6,US,Virginia,USNBWPE6,Paul Argillo,02/01/2019,,,
+Laptop,FCHKM,926,Lenovo,ThinkPad T580,Yes,Yes,Yes,R90T99ZP,CHINA,Hong Kong,HKNB99ZP,Tim Wu,03/20/2019,,,
+Laptop,FCHKM,927,Lenovo,ThinkPad T580,Yes,Yes,Yes,R90TCEQK,CHINA,Hong Kong,HKNBCEQK,Frank Wu,03/20/2019,,,
+Laptop,FCHKM,460,Lenovo,ThinkPad T60,No,No,No,L34B85C,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FTJNM,71,Lenovo,ThinkPad X1,Yes,Yes,Yes,PF1NR3ZP,CHINA,ShangHai,HKNBR3ZP,Sophia Yue,05/20/2019,,,
+Laptop,DFMNM,57,Lenovo,ThinkPad X1,Yes,No,Yes,R90F31RP,CHINA,Hong Kong,HKNB31RP,Spare,03/24/2015,,,
+Laptop,DFMNM,60,Lenovo,ThinkPad X1,Yes,No,Yes,R90F31RQ,CHINA,Hong Kong,HKNB31RQ,Spare,03/24/2015,,,
+Laptop,DFMNM,54,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90F31RR,CHINA,Hong Kong,,Peter SU,03/24/2015,,,
+Laptop,DFMNM,61,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90F31RS,CHINA,Hong Kong,HKNB31RS,Aubrey GU,03/24/2015,,,
+Laptop,DFMNM,55,Lenovo,ThinkPad X1,Yes,No,Yes,R90F31RU,CHINA,Hong Kong,HKPC31RU,Spare,03/24/2015,,,
+Laptop,DFMNM,58,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90F31RV,CHINA,Hong Kong,HKNB31RV,Teresa YAU,03/24/2015,,,
+Laptop,DFMNM,62,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90F31RW,CHINA,Hong Kong,,Winnie SIU,03/24/2015,,,
+Laptop,DFMNM,56,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90F31RX,CHINA,Hong Kong,HKNB31RX,Lemon Lee,03/24/2015,,,
+Laptop,FCHKM,843,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90KMTHQ,CHINA,Hong Kong,HKNBMTH0,ZHAO Chuan,08/31/2016,,,
+Laptop,FCHKM,842,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90KMTHT,CHINA,Hong Kong,HKNBMTHT,PEI Feng,08/31/2016,,,
+Laptop,FCHKM,856,Lenovo,ThinkPad X1,Yes,Yes,Yes,R90LRNRA,CHINA,Hong Kong,HKBNRNRA,LI Guomei,12/31/2016,,,
+Laptop,FCHKM,752,Lenovo,ThinkPad X1,Yes,Yes,Yes,R9TCFEL,CHINA,Hong Kong,HKNBCFEL,Security,10/31/2012,,,
+Laptop,FMACM,124,Lenovo,ThinkPad X200,No,No,Yes,LV020T5,CHINA,Macau,,Spare,06/30/2009,,,"suggest to disposal, Not in use and keeping in Store Room / value"
+Laptop,FMACM,123,Lenovo,ThinkPad X200,No,No,Yes,LV020T6,CHINA,Macau,,Spare,05/19/2009,,,Keep in store room
+Laptop,FCHKM,590,Lenovo,ThinkPad X200,No,No,No,LV020T9,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,660,Lenovo,ThinkPad X201,No,No,No,R92TF88,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,692,Lenovo,ThinkPad X201,No,No,No,R976H46,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,700,Lenovo,ThinkPad X201,Yes,Yes,No,R9CH0NE,CHINA,Hong Kong,HKNBH0NE,CHEUNG Wai Hung,no record,,,still in use
+Laptop,FCHKM,751,Lenovo,ThinkPad X220,No,No,No,R9PVCVM,CHINA,Hong Kong,,,08/31/2012,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,811,Lenovo,ThinkPad X230,Yes,Yes,Yes,PK1ZFHB,CHINA,Hong Kong,LT-JAMESWAN,HR Dept,12/31/2013,,,Managed by Athena Lau (James Wan)
+Laptop,FCHKM,809,Lenovo,ThinkPad X230,Yes,Yes,Yes,PK1ZFHC,CHINA,Hong Kong,HKNBZFHC,Ronald Cheng,12/31/2013,,,
+Laptop,FCHKM,810,Lenovo,ThinkPad X230,Yes,Yes,Yes,PK1ZFHE,CHINA,Hong Kong,HKNBZFHE,Risk Management,12/31/2013,,,Managed by Jerry Cheng
+Laptop,FMACM,142,Lenovo,ThinkPad X230,Yes,No,Yes,PK21LEV,CHINA,Hong Kong,HKNB1LEV,Spare,11/30/2013,,,
+Laptop,FCHKM,753,Lenovo,ThinkPad X230,Yes,Yes,Yes,R9RCY82,CHINA,Hong Kong,LT-OWEN-WIN7,Owen CHAN,10/31/2012,,,
+Laptop,FCHKM,768,Lenovo,ThinkPad X230,Yes,Yes,Yes,R9V52RR,CHINA,Hong Kong,LT-WEISHIYONG,Wei Shiyong,12/31/2012,,,
+Laptop,DFMNM,191,Lenovo,ThinkPad X230T,Yes,Yes,Yes,R9PF4NR,CHINA,Hong Kong,FIN-NB,FIN Dept,11/05/2013,,,managed by Kris Cheung
+Laptop,DFMNM,190,Lenovo,ThinkPad X230T,Yes,Yes,Yes,R9VEYKL,CHINA,Hong Kong,HKNBEYKL,SPD Dept,11/05/2013,,,managed by David Su
+Laptop,DFMNM,233,Lenovo,ThinkPad X240,Yes,No,Yes,PB01UCRN,CHINA,ShangHai,HKNBUCRN,Spare,06/30/2014,,,
+Laptop,DFMNM,104,Lenovo,ThinkPad X240,Yes,No,No,PB02S4VQ,China,Hong Kong,HKNBS4VQ,Spare,no record,,,
+Laptop,DFMNM,106,Lenovo,ThinkPad X240,Yes,Yes,Yes,PC006CJ1,ASIA,Seoul,PC006CJ1-NB,Daewoon KANG,08/31/2014,,,
+Laptop,DFMNM,107,Lenovo,ThinkPad X240,Yes,Yes,Yes,PC006CL7,CHINA,Hong Kong,PC006CL7-NB,FIR Dept,06/04/2015,,,managed by Venus Lee
+Laptop,DFMNM,95,Lenovo,ThinkPad X240,Yes,Yes,Yes,PC00F8TG,CHINA,ShangHai,PC00F8TG-NB,Ian ZHANG,11/12/2014,,,
+Laptop,DFMNM,94,Lenovo,ThinkPad X240,Yes,Yes,Yes,PC00F8TH,ASIA,Seoul,PC00F8TH-NB,Sue CHUNG,11/12/2014,,,
+Laptop,DFSNM,13,Lenovo,ThinkPad X240,Yes,No,Yes,PC00LHSP,CHINA,Hong Kong,HKNBLHSP,Fault,03/19/2015,,,power fault
+Laptop,FCHKM,825,Lenovo,ThinkPad X240,Yes,Yes,Yes,PC00XKK1,US,San Francisco,It-ewisensee,Emily Weisensee,10/31/2014,,,
+Laptop,DFMNM,96,Lenovo,ThinkPad X240,Yes,No,Yes,PC00YPP6,CHINA,Hong Kong,HKNBYPP6,Spare,11/12/2014,,,
+Laptop,FCHKM,830,Lenovo,ThinkPad X250,Yes,Yes,Yes,PC04N1C6,EUROP,Hamburg,HKNBN1C6,Ishfaq Ahmad,06/30/2015,,,
+Laptop,FCGEM,31,Lenovo,ThinkPad X250,Yes,Yes,Yes,PC052YZU,EUROP,Hamburg,LT-AJAHN1,Andreas JAHN,07/31/2015,,,
+Laptop,DFMNM,116,Lenovo,ThinkPad X250,Yes,No,Yes,PC058KWE,CHINA,Hong Kong,PC058KWE,Spare,07/14/2015,,,Janny Lam
+Laptop,DFMNM,115,Lenovo,ThinkPad X250,Yes,Yes,Yes,PC05NNYF,CHINA,Hong Kong,PC05NNYF-NB,Kanic CHEUNG,07/14/2015,,,
+Laptop,DFMNM,117,Lenovo,ThinkPad X250,Yes,Yes,No,PC07EPXF,ASIA,Singapore,HKNBEPXF,Taha Aziz,10/25/2015,,,
+Laptop,FCHKM,834,Lenovo,ThinkPad X250,Yes,Yes,Yes,PC08MJRA,CHINA,Hong Kong,PC08MJRA-NB,Deng Huangjun,12/31/2015,,,damaged
+Laptop,FCHKM,835,Lenovo,ThinkPad X250,Yes,Yes,Yes,PC08N6K7,CHINA,Hong Kong,WS-ZHAOCHUAN,Zhao Chuan,12/31/2015,,,
+Laptop,FCHKM,836,Lenovo,ThinkPad X250,Yes,Yes,Yes,PC08N6K8,CHINA,Hong Kong,WS-PEIFENG,Pei Feng,12/31/2015,,,
+Laptop,DFMNM,234,Lenovo,ThinkPad X250,Yes,Yes,No,PC09ZX00,CHINA,ShangHai,VICKYPC,Vicky XU,no record,,,still in use
+Laptop,FCHKM,857,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0APALK,CHINA,Hong Kong,HKNBPALK,Cassie Dong,12/31/2016,,,
+Laptop,FCHKM,851,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0ASJ3W,CHINA,Hong Kong,HKNBSJ3W,Adrian CHAN,09/30/2016,,,
+Laptop,FCHKM,862,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0CKGRW,CHINA,Hong Kong,HKNBKGRW,Man LAU,12/31/2016,,,
+Laptop,FCHKM,866,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0CKGS2,US,New Jersey,HKNBKGS2,Richard Corvi,12/31/2016,,,
+Laptop,FCHKM,865,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0CVB0G,CHINA,Hong Kong,HKNBVB0G,Tony To,12/31/2016,,,
+Laptop,FCHKM,863,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0CVB0Y,CHINA,Hong Kong,HKNBVB0Y,Philip LI,12/31/2016,,,
+Laptop,FCHKM,864,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0DLFJ3,CHINA,Shanghai,HKNBLFJ3,Jessie LI,12/31/2016,,,
+Laptop,FCHKM,850,Lenovo,ThinkPad X260,Yes,No,Yes,PC0DLFJF,US,Miami,HKNBLFJF,Spare,09/30/2016,,,Marilin Arce
+Laptop,FCHKM,860,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0F8GYP,US,Chicago,HKNB8GYP,Vincent Codiamat,12/31/2016,,,
+Laptop,FCHKM,855,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0F8GYQ,CHINA,Hong Kong,HKNB8GYQ,Winter Lam,12/31/2016,,,
+Laptop,FCHKM,859,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0F8GYR,CHINA,Hong Kong,HKBN8GYR,Wei Shiyong,12/31/2016,,,
+Laptop,FCHKM,861,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0F8GYS,US,San Francisco,HKNB8GYS,Ryan CHOI,12/31/2016,,,
+Laptop,FCHKM,858,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0F8GYT,CHINA,Hong Kong,HKNB8GYT,Alex TSANG,12/31/2016,,,
+Laptop,FCGEM,60,Lenovo,ThinkPad X260,Yes,Yes,Yes,PC0JQX5K,EUROP,Hamburg,EUNBQX5K,Thore Georg WINDEIT,03/31/2017,,,
+Laptop,FTJNM,66,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0KNNGH,CHINA,Shanghai,HKNBNNGH,Shirley Hu,12/31/2017,,,
+Laptop,FCITM,75,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0LGBNA,EUROP,Genoa,EUNBGBNA,Spare,10/31/2017,,,
+Laptop,FPHXM,1,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0M0ASJ,US,Chandler,USNB0ASJ,Elise AUGUSTUS,07/31/2017,,,
+Laptop,FCHKM,882,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0M9VA5,CHINA,Hong Kong,HKNB9VA5,Tom Chau,08/31/2017,,,
+Laptop,FCHKM,883,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0M9VA6,CHINA,Hong Kong,HKNB9VA6,Burns Ng,08/31/2017,,,
+Laptop,FCHKM,894,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0MC8SM,CHINA,Hong Kong,HKNBC8SM,Catherine Tian,09/30/2017,,,
+Laptop,FCHKM,884,Lenovo,ThinkPad X270,Yes,No,Yes,PC0MQFFG,CHINA,Hong Kong,HKNBQFFG,Spare,08/31/2017,,,
+Laptop,FCHKM,885,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0MQFFH,CHINA,Hong Kong,HKNBQFFH,Connie SIU,08/31/2017,,,
+Laptop,FCHKM,887,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0MQFFJ,CHINA,Hong Kong,HKNBQFFJ,Steven Wong,08/31/2017,,,
+Laptop,FCHKM,886,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0MQFFK,CHINA,Hong Kong,HKNBQFFK,David SU,08/31/2017,,,
+Laptop,DFSNM,19,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0MR49G,ASIA,Singapore,HKNBR49G,Alexz LIM,08/31/2017,,,
+Laptop,FCHKM,893,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0NC8TX,EUROP,London,HKNBC8TX,Gary Foster,09/30/2017,,,
+Laptop,FHSTM,1,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0NE6M2,US,Houston,USNBE6M2,Wayne Terry,09/30/2017,,,
+Laptop,FCHKM,891,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0NNDWN,CHINA,Hong Kong,HKNBNDWN,Adam XU,09/30/2017,,,
+Laptop,FCHKM,892,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0NNDWP,ASIA,Seoul,HKNBNDWP,KT LEE,09/30/2017,,,
+Laptop,FJERM,200,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0PCLKV,US,New Jersey,USNBCLKV,Chen Jian,10/31/2017,,,
+Laptop,DFSNM,20,Lenovo,ThinkPad X270,Yes,Yes,Yes,PC0Q4CM7,ASIA,Singapore,HKNB4CM7,Danielle Siah,11/30/2017,,,
+Laptop,FCHKM,906,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC0UPHP7,CHINA,Hong Kong,HKNBPHP7,Owen CHAN,07/31/2018,,,
+Laptop,FPHXM,3,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC0V4A69,US,Chicago,USNB4A69,Christine JUNG,06/30/2018,,,
+Laptop,FSFOM,857,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC0V4WSG,US,San Francisco,USNB4WSG,Emily Weisensee,07/31/2018,,,
+Laptop,FTJNM,73,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC0WWNR4,CHINA,ShangHai,HKNBWNR4,Patrick Chen,03/08/2019,,,
+Laptop,FTJNM,72,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC0WWP2M,CHINA,ShangHai,HKNBWP2M,Penny Feng,03/08/2019,,,
+Laptop,DFSNM,23,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC0XYS9D,ASIA,Singapore,HKNBYS9D,Catherine Koh,10/31/2018,,,
+Laptop,DFSNM,24,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC11JAFQ,ASIA,Singapore,HKNBJAFQ,Keith Lee,02/20/2019,,,
+Laptop,FCHKM,925,Lenovo,ThinkPad X280,Yes,Yes,Yes,PC12BAZX,CHINA,Hong Kong,HKNBBAZX,Anna Zhu,03/12/2019,,,
+Laptop,FCHKM,933,Lenovo,ThinkPad X390,Yes,Yes,Yes,PF1LU935,China,Hong Kong,HKNBU935,HR dept.,07/03/2019,,,Victoria Sze
+Laptop,FCHKM,935,Lenovo,ThinkPad X390,Yes,Yes,Yes,PF1LVQ2Y,China,Hong Kong,HKNBVQ2Y,Janny Lam,07/05/2019,,,
+Laptop,FCHKM,938,Lenovo,ThinkPad X390,Yes,No,Yes,PF1LVSAY,China,Hong Kong,HKNBVSAY,Spare,07/10/2019,,,
+Laptop,FCHKM,934,Lenovo,ThinkPad X390,Yes,Yes,Yes,PF1LVSBL,China,Hong Kong,HKNBVSBL,Christy Wong,07/03/2019,,,
+Laptop,FCHKM,939,Lenovo,ThinkPad X390,Yes,Yes,Yes,PF1SA0XF,China,Hong Kong,HKNBA0XF,Wing Li,07/17/2019,,,
+Laptop,FCHKM,941,Lenovo,ThinkPad X390,Yes,Yes,Yes,PF1SA0ZA,China,Hong Kong,HKNBA0ZA,Caesar Yiu,08/14/2019,,,
+Laptop,FCHKM,940,Lenovo,ThinkPad X390,Yes,Yes,Yes,PF1SA0ZP,China,Hong Kong,HKNBA0ZP,Jorie Guo,07/22/2019,,,
+Laptop,FCHKM,831,Lenovo,Thinkpad T450s,Yes,Yes,Yes,PC03NNLA,CHINA,Hong Kong,HKNBNNLA,Winter Lam,06/30/2015,,,
+Laptop,FTJNM,70,Lenovo,Thinkpad T480,Yes,Yes,Yes,PF0YZ5C0,CHINA,Shanghai,HKNBZ5C0,Lyn Wang,12/31/2018,,,
+Laptop,FCHKM,911,Lenovo,Thinkpad T580,Yes,Yes,Yes,R90SJ78W,CHINA,Hong Kong,HKNBJ78W,Vigoss Zhang,12/12/2018,,,
+Laptop,DFMNM,205,ASUS,U45J,No,No,No,A7N0AS020907287,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,,,Sony,VGN-TX17GP,No,No,No,2.81991E+14,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,601,Sony,VGN-Z46GD,No,No,No,2.82175E+14,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FJERM,169,Sony,VGN-Z540NCB,No,No,Yes,3109256,CHINA,Hong Kong,,N/A,06/30/2009,,,"Return by NJ/suggest to disposal (MARCELLO), Core2Duo P8400 2.26GHz, 2GB RAM, WinVista / no value"
+Laptop,FMACM,60,Sony,Vaio VGN-SZ483N/C,No,No,Yes,N/A,CHINA,Macau,,N/A,10/31/2007,,,suggest to disposal not found / no value
+Laptop,,,NEC,Versa Note,No,No,No,1186400226,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,,,Dell,Vestro 3400,No,No,No,5N8F7L1,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FCHKM,125,Dell,Vostro 3300,Yes,No,No,,EUROP,Hamburg,,Spare,no record,,,"already write off, waiting recycle vendor collect, not in use and keeping in Server Room"
+Laptop,DFMNM,206,ASUS,X53S,No,No,No,B3N0AS36525412A,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
+Laptop,FSFOM,855,Lenovo,Yoga 710,Yes,Yes,Yes,MP19LEAP,US,San Francisco,USNBLEAP,Irene Shao,09/30/2017,,,
+Laptop,DFMNM,218,Lenovo,Yoga2Pro Ultrabook,Yes,Yes,Yes,YB00508074,CHINA,Hong Kong,,Lewis Chui,11/06/2013,,,
+Network,DFMNM,23,Cisco,2960-S,Yes,Yes,Yes,FOC1717W30D,CHINA,KCC,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,21,Cisco,2960-S,Yes,Yes,Yes,FOC1737W0UY,CHINA,KCC,10.16.82.220,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,22,Cisco,2960-S,Yes,Yes,Yes,FOC1737W2F6,CHINA,KCC,10.16.82.220,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,24,Cisco,2960-X,Yes,Yes,Yes,FOC1836S3E7,CHINA,KCC,10.22.28.21,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,25,Cisco,2960-X,Yes,Yes,Yes,FOC1839S1B9,CHINA,KCC,10.22.28.21,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,28,Cisco,3750-X,Yes,Yes,Yes,FDO1706P1XJ,CHINA,KCC,10.16.78.249,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,29,Cisco,3750-X,Yes,Yes,Yes,FDO1707R012,CHINA,KCC,10.16.78.249,IT Dept,02/27/2014,,JOS,
+Network,,,Cisco,3750G,Yes,Yes,No,FOC1130Y4HQ,CHINA,KCC,FLOREN_srv,IT Dept,no record,,JOS,still in use
+Network,FJERM,161,Check Point,CHK VPN-1 UTM APPL FIREWALL,No,No,Yes,,US,New Jersey,,N/A,08/31/2007,,,suggest to disposal not found / no value
+Network,DFMNM,264,CISCO,CISCO ASA 5512-X,Yes,Yes,Yes,FCH1906K564,ASIA,Singapore,DFSGFW01,Singapore Office,05/18/2015,,,Singapore Firewall
+Network,DFMNM,45,Cisco,Catalyst 2960-X FlexStack I - Cable,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,12/30/2014,,,Cable for interconnection
+Network,DFMNM,46,Cisco,Catalyst 2960-X FlexStack II - Cable,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,12/30/2014,,,Cable for interconnection
+Network,DFMNM,47,Cisco,Catalyst 2960-X FlexStack III - Cable,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,12/30/2014,,,Cable for interconnection
+Network,DFMNM,48,Cisco,Catalyst 2960-X FlexStack IV - Cable,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,12/30/2014,,,Cable for interconnection
+Network,DFMNM,41,Cisco,Catalyst 2960-X I - Hardware Chassis,Yes,Yes,Yes,FOC1841S0CT,CHINA,T8,,IT Dept,12/30/2014,,JOS,
+Network,DFMNM,42,Cisco,Catalyst 2960-X II - Hardware Chassis,Yes,Yes,Yes,FCW1837A5Z4,CHINA,T8,,IT Dept,12/30/2014,,JOS,
+Network,FMACM,129,CheckPoint,Check Point UTM-1 Edge,Yes,No,Yes,141249730310017A,CHINA,Hong Kong,,Spare,07/31/2009,,,Already Power off and keeping in Rack
+Network,DFSNM,17,CheckPoint,Checkpoint 2200,Yes,No,Yes,,ASIA,Singapore,,Singapore Office,12/02/2013,,,Already Power off and keeping in Rack
+Network,DFMNM,12,CheckPoint,Checkpoint 2200 for Office,Yes,No,Yes,1218B00182,CHINA,KCC,,IT Dept,12/05/2013,,,Already Power off
+Network,FCHKM,741,CheckPoint,Checkpoint 4610 Blade Firewall,Yes,No,Yes,1212B00251,CHINA,KCC,,IT Dept,06/30/2012,,,Already Power off
+Network,FTJNM,56,CheckPoint,Checkpoint VPN-1 UTM,Yes,Yes,Yes,,CHINA,Tianjin,,Tianjin Office,05/31/2009,,,
+Network,DFMNM,26,Cisco,Cisco 2960,Yes,Yes,Yes,FCW1837A5Z4,CHINA,T8,DFTPSW2960-02,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,27,Cisco,Cisco 2960,Yes,Yes,Yes,FOC1841S0CT,CHINA,T8,DFTPSW2960-01,IT Dept,02/27/2014,,JOS,
+Network,FCHKM,854,Cisco,Cisco 3850,Yes,Yes,Yes,FOC2032U0UQ,CHINA,KCC,FL_SW3850,IT Dept,10/31/2016,,TECH-TRANS,
+Network,DFMNM,36,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,37,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,35,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,34,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,32,Cisco,Cisco 3850 10G SFP - Hardware Chassis,Yes,Yes,Yes,FOC1839U0SV,CHINA,T8,DFTPSW3850-01,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,33,Cisco,Cisco 3850 10G SFP - Hardware Chassis,Yes,Yes,Yes,FOC1839U0VQ,CHINA,T8,DFTPSW3850-02,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,30,Cisco,Cisco 3850 Internal Module,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,31,Cisco,Cisco 3850 Internal Module,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,FCGEM,67,Cisco,Cisco ASA 5506-X Firewall,Yes,Yes,Yes,JAD22210EC9,EUROP,Hamburg,10.15.28.1,Hamburg Office,08/31/2018,,Cisco,Keeping in Rack
+Network,,,Cisco,Cisco ASA 5506-X Firewall,Yes,No,No,JMX2226G2FF,CHINA,Hong Kong,,Spare,07/11/2018,,ECCOM,relocated from MO
+Network,FCHKM,903,Cisco,Cisco Catal 2960-X24Poe Switch,Yes,Yes,Yes,FOC211513VV,CHINA,KCC,Florens_50F-1_poe,IT Dept,01/31/2018,,Pacific Datacom,
+Network,FJERM,97,Cisco,Cisco Router,Yes,No,Yes,,US,New Jersey,,New Jersey Office,04/01/2001,,,suggest to disposal not found / no value
+Network,FJERM,192,Dell,DELL POWER CONNECT SWITCH,Yes,No,Yes,,US,New Jersey,,New Jersey Office,05/31/2014,,,Keeping in Server Room
+Network,FCHKM,907,Cisco,Firepower 2110,Yes,Yes,Yes,JAD22170DVL,CHINA,KCC,Firepower-1,IT Dept,09/30/2018,,ECCOM,
+Network,FCHKM,907,Cisco,Firepower 2110,Yes,Yes,Yes,JAD22180BTP,CHINA,KCC,Firepower-2,IT Dept,09/30/2018,,ECCOM,
+Network,DFMNM,40,HP,HP8/8(8)-portsEnabledSANSwitch,Yes,Yes,Yes,CZC437T1LP,CHINA,T8,,IT Dept,12/29/2014,,Service One,
+Network,DFMNM,39,HP,HP8/8(8)-portsEnabledSANSwitch,Yes,Yes,Yes,CZC437T1LY,CHINA,T8,,IT Dept,12/29/2014,,Service One,
+Network,DFMNM,49,Cisco,NGFW ASA 5515-X I - Hardware Chassis,Yes,Yes,Yes,FCH183773DW,CHINA,T8,DFTPFW01,IT Dept,12/30/2014,,,
+Network,DFMNM,50,Cisco,NGFW ASA 5515-X II - Hardware Chassis,Yes,Yes,Yes,FCH183773BJ,CHINA,T8,DFTPFW02,IT Dept,12/30/2014,,,
+Network,,,Cisco,Router 800,Yes,Yes,No,FHK1333707A,CHINA,T8,Cosco_T8_7F_881R,IT Dept,no record,,JOS,T8 to KCC connection router
+Network,FTJNM,14,,VPN Network Firewall,Yes,Yes,Yes,,CHINA,Tianjin,,Tianjin Office,06/01/2007,,,
+Other,FMACM,45,,41U Rack,No,No,Yes,N/A,CHINA,Macau,,Macau Office,05/01/2007,,,Keeping in Server Room
+Other,FMACM,141,APC,APC Smart UPS 1500VA 2u,No,No,Yes,AS1315110155,CHINA,Macau,,Macau Office,07/31/2013,,,Keeping in Rack
+Other,DFMNM,11,Panasonic,Add on extension card,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,03/15/2012,,,suggest to disposal old telephone system / confirm with Tony already collect by vendor / no value
+Other,DFSNM,2,,AudioSpeakerPhone and Expansion,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,03/27/2013,,,Keeping in Meeting Room
+Other,DFSNM,3,Avaya,Avaya IP Office,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,12/27/2013,,,Keeping in Meeting Room
+Other,DFSNM,5,Avaya,Avaya IP Office-HA Option,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,12/30/2013,,,Keeping in Meeting Room
+Other,FCGEM,62,Avaya,Avaya IP Phone System,Yes,Yes,Yes,,EUROP,Hamburg,,Hamburg Office,05/31/2017,,,Keeping in Rack
+Other,FCHKM,944,Avaya,Avaya Video Conf System,Yes,Yes,Yes,,China,Shanghai,,Shanghai Office,,,,
+Other,FCGEM,61,Avaya,Avaya Video Conf System,Yes,Yes,Yes,,EUROP,Hamburg,,Hamburg Office,05/31/2017,,,Keeping in Meeting Room
+Other,FJERM,176,,DESK PHONE MITEL SYSTEM COMPAT,Yes,No,Yes,,US,New Jersey,,Spare,05/31/2010,,,Not in use and keep in Cabinet
+Other,FJERM,117,,DKT3020-Sd Digital 20 button,No,No,Yes,,US,New Jersey,,N/A,02/01/2003,,,suggest to disposal not found / no value
+Other,DFSNM,11,Synology,DS414 Nest,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,01/21/2014,,,Keeping in Rack
+Other,DFSNM,9,,Desktop and Accessories,Yes,No,Yes,N/A,ASIA,Singapore,,Spare,03/27/2013,,,Not in use and keeping in Cabinet
+Other,DFSNM,21,,Finger Scanner replacement,Yes,Yes,Yes,N/A,ASIA,Singapore,,Singapore Office,04/30/2018,,,
+Other,DFMNM,15,Avaya,HK IP Office HA Option,Yes,Yes,Yes,N/A,CHINA,Hong Kong,,IT Dept,02/12/2014,,,current IP Phone system
+Other,DFMNM,13,Avaya,HK+SH AvayaIP500 Office System,Yes,Yes,Yes,13WZ206005NS,CHINA,Hong Kong,,IT Dept,02/12/2014,,,current IP Phone system
+Other,FJERM,157,HP,HP Smartbuy Dat 72 USB Ext drv,No,No,Yes,,US,New Jersey,,N/A,04/01/2007,,,suggest to disposal not found / no value
+Other,FTJNM,17,HP,HR-S61042 Rack,Yes,Yes,Yes,N/A,CHINA,Tianjin,,Tianjin Office,06/01/2007,,,
+Other,DFMNM,14,Avaya,IP Office HA Option,Yes,Yes,Yes,N/A,CHINA,Hong Kong,,IT Dept,02/12/2014,,,current IP Phone system
+Other,FCHKM,849,,IP Phone System,Yes,No,Yes,N/A,CHINA,Hong Kong,,IT Dept,08/31/2016,,,When Dong Fang and Florens merge add phone license
+Other,FMACM,152,,IP Phone System (Macau Office),Yes,No,Yes,,CHINA,Hong Kong,,Spare,12/31/2016,,,relocated from MO
+Other,DFMNM,10,Panasonic,KX-T7667X Digital Phone X 5,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/28/2011,,,suggest to disposal old telephone system / confirm with Tony already collect by vendor / no value
+Other,DFSNM,6,Panasonic,Keyphone System,Yes,No,Yes,N/A,ASIA,Singapore,,Spare,07/01/2016,,,Not in use and keeping in Cabinet
+Other,FTJNM,26,,LCD TV TLM4788P,Yes,Yes,Yes,,CHINA,Tianjin,,Tianjin Office,06/01/2007,,,
+Other,FJERM,134,,LITEBIRD LCD PROJ 1500 ANSI,Yes,No,Yes,,US,New Jersey,,Spare,03/01/2004,,,Not in use and keep in Cabinet
+Other,FCGEM,55,,MB Smart Switch for Telephone,Yes,Yes,Yes,,EUROP,Hamburg,,Hamburg Office,12/31/2015,,,Keeping in Rack
+Other,FJERM,184,,MITEL 5310 CONFERENCE PHONE,Yes,No,Yes,,US,New Jersey,,New Jersey Office,04/30/2012,,,Keeping in Server Room
+Other,DFMNM,8,Panasonic,MPBX IP-PBX TelSystem Rounter,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,06/15/2011,,,suggest to disposal old telephone system / confirm with Tony already collect by vendor / no value
+Other,FMACM,32,,Macau Office (W) Tel System,No,No,Yes,,CHINA,Macau,,Macau Office,05/01/2005,,,Keeping in Rack
+Other,FMACM,6,,Macau Office Tel System,No,No,Yes,,CHINA,Macau,,Macau Office,06/01/2004,,,Keeping in Rack
+Other,FJERM,171,,ONE MITEL NETWORKS 3300 ICP,Yes,No,Yes,,US,New Jersey,,Spare,10/30/2009,,,Not in use and keep in Cabinet
+Other,DFMNM,9,Panasonic,PhoneSystem-TDA200,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/28/2011,,,suggest to disposal old telephone system / confirm with Tony already collect by vendor / no value
+Other,DFMNM,17,Avaya,RADVISIONXT4200VConfere I,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/24/2014,,,suggest to disposal - not move to COSCO Tower from KCC conf 2 / have value
+Other,DFMNM,18,Avaya,RADVISIONXT4200VConfere II,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/24/2014,,,suggest to disposal - not move to COSCO Tower from KCC conf 3 / have value
+Other,DFMNM,75,SANYO,SANYO PLC-XU110 LCD Projector,Yes,No,No,G7102878,CHINA,Hong Kong,,Spare,06/01/2007,31/12/2018,,Disposed by GMD in Dec 2018/Keep in COSCO 50F server Room
+Other,DFSNM,8,Samsung,Samsung UA55F5300 TV,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,11/27/2013,,,Keeping in Meeting Room
+Other,FMACM,153,Samsung,Samsung UA65NU7100-VC TV,No,No,Yes,ASAMUA65NU7100,CHINA,Macau,,Macau Office,07/31/2018,,,Meeting Room
+Other,FMACM,48,,Sanyo PLC-XU74 Projector,No,No,Yes,,CHINA,Macau,,Macau Office,05/01/2007,,,Meeting Room Using
+Other,DFSNM,16,,Server Rack,Yes,Yes,Yes,N/A,ASIA,Singapore,,Singapore Office,12/31/2013,,,
+Other,DFMNM,90,Polycom,Telephone- Polycom S Station,Yes,No,Yes,GP017231,CHINA,Hong Kong,,Spare,03/01/2007,,,keep In COSCO 50F Server room
+Other,FJERM,189,,V1210 60 LED SMART TV,Yes,No,Yes,,US,New Jersey,,Spare,12/31/2012,,,Not in use and keep in Cabinet
+Other,DFSNM,4,Avaya,Video Conference,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,12/27/2013,,,Keeping in Meeting Room
+Other,FMACM,151,,Video Conference Sys (Macau),Yes,No,Yes,,CHINA,Hong Kong,,Spare,12/31/2016,,,relocated from MO
+Other,DFMNM,16,Avaya,Video Conference System,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,02/12/2014,,,suggest to disposal - not move to COSCO Tower from KCC Boardroom / have value
+Other,DFSNM,7,,XEROX COPIER,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,12/18/2013,,,
+Printer,FTJNM,7,,Copy Machine Toshiba 452S,Yes,Yes,Yes,,CHINA,Tianjin,,Tianjin Office,02/01/2007,,,
+Printer,DFMNM,70,HP,HP LASERJET 1020 PRINTER x 2,Yes,Yes,Yes,CNC0625251,CHINA,Hong Kong,,FIN Dept,06/01/2007,,,managed by Marus
+Printer,DFMNM,72,HP,HP Laser Jet M401DN,Yes,No,Yes,VNH5R03556,CHINA,Hong Kong,,Spare,07/08/2013,,,Not in use and keep in Server Room
+Printer,DFMNM,74,HP,HP LaserJet Pro M401DN II,Yes,No,No,VNC3K06651,CHINA,Hong Kong,,Spare,03/05/2014,31/12/2018,,Disposed by GMD in Dec 2018/keep in Server Room
+Printer,FMACM,148,,HP Laserjet M602D Printer,No,No,Yes,CNE8H3WG9X,CHINA,Macau,,Macau Office,12/31/2015,,,
+Printer,FTJNM,16,HP,HP-2430N Laser Printer,Yes,Yes,Yes,,CHINA,Tianjin,,Tianjin Office,06/01/2007,,,
+Printer,DFMNM,71,HP,HPLaserJetPro400colorM451DN,No,No,No,N/A,CHINA,Hong Kong,,N/A,04/17/2013,31/12/2018,,Disposed by GMD in Dec 2018
+Printer,DFMNM,78,Ricoh,MPC4503SP,Yes,Yes,Yes,,CHINA,ShangHai,,,,,,
+Server,FCHKM,901,APC,APC Smart-UPS 3000VA 10/17 - Battery,Yes,Yes,Yes,SMX120RMBP2U,CHINA,T8,,IT Dept,11/30/2017,,,APC Smart-UPS 3000VA 10/17
+Server,FCHKM,895,APC,APC Smart-UPS 3000VA 10/17 - Chassis,Yes,Yes,Yes,SMX3000RMHV2U,CHINA,T8,,IT Dept,10/31/2017,,,APC Smart-UPS 3000VA 10/17
+Server,FCHKM,780,IBM,Blade Center S,Yes,Yes,Yes,060NHCL,CHINA,T8,,IT Dept,12/31/2012,,IBM,
+Server,FJERM,177,Dell,DELL R610 SERVER,Yes,No,Yes,,US,New Jersey,,Spare,12/31/2010,,,Not in use and keep in Cabinet
+Server,DFMNM,65,HP,DL360P Gen8 Svr,Yes,Yes,Yes,SGH443YDBL,CHINA,T8,DFTPESX02,IT Dept,12/29/2014,,ServiceOne,
+Server,DFMNM,66,HP,DL360P Gen8 Svr,Yes,Yes,Yes,SGH443YDBN,CHINA,T8,DFTPESX01,IT Dept,12/29/2014,,ServiceOne,
+Server,FMACM,46,HP,"HP DL380G5 Server HD,DVD,LIC",No,No,Yes,SGH7020JNW4,CHINA,Macau,,Macau Office,05/01/2007,,,Keeping in Rack
+Server,FJERM,173,HP,HP ML 130 SERVER,No,No,Yes,,US,New Jersey,,N/A,04/30/2010,,,suggest to disposal just find a ML150G6 server / no value
+Server,FJERM,152,HP,HP Proliant ML110 Server,No,No,Yes,N/A,US,New Jersey,,N/A,02/01/2006,,,suggest to disposal not found / no value
+Server,FCHKM,781,IBM,IBM HS23 Blade Server,Yes,Yes,Yes,06LEMZ5,CHINA,T8,,IT Dept,12/31/2012,,,
+Server,FCHKM,844,IBM,IBM Power S824,Yes,Yes,Yes,848349W,CHINA,KCC,HKPRD200,IT Dept,08/31/2016,,TECH-TRANS,
+Server,FCHKM,796,IBM,IBM TS2250 Tape Drive,Yes,No,Yes,,CHINA,T8,,IT Dept,08/31/2013,,,suggest to disposal Already offline / no value
+Server,FCGEM,28,Dell,POWEREDGE T310 TOWER CHASSIS,Yes,Yes,Yes,,EUROP,Hamburg,,Hamburg Office,06/30/2012,,,Keeping in Rack
+Server,DFMNM,67,IBM,Power 520,Yes,Yes,Yes,0606A95,CHINA,KCC,HKTST300,IT Dept,02/17/2012,,NationMark,
+Server,FCHKM,779,IBM,Power740,Yes,Yes,Yes,069B41P,CHINA,KCC,HKPRD100 / HKTST600,IT Dept,12/31/2012,,NationMark,
+Server,FCHKM,683,Dell,PowerEdge R710,Yes,Yes,Yes,1FSMSBX,CHINA,KCC,10.22.21.97,IT Dept,02/15/2012,,Microware,
+Server,FCHKM,684,Dell,PowerEdge R710,Yes,Yes,Yes,281LSBX,CHINA,KCC,10.22.21.98,IT Dept,02/15/2012,,Microware,
+Server,FCHKM,755,Dell,PowerEdge R720,Yes,Yes,Yes,B22NYBX,CHINA,KCC,10.22.21.89,IT Dept,10/31/2012,,Microware,
+Server,FCHKM,482,HP,ProLiant DL360 G5,Yes,Yes,Yes,CN772200EW,CHINA,KCC,HongKongfs3,IT Dept,02/15/2012,,Microware,
+Server,FTJNM,15,HP,Proliant 417454-AAI Server,Yes,Yes,Yes,,CHINA,Tianjin,,Tianjin Office,06/01/2007,,,relocated to SH?
+Server,FSZNM,89,HP,Proliant DL120G5,No,No,No,CNG028SPGB,CHINA,ShangHai,,,10/01/2010,05/07/2019,,disposal at 07 May 2019
+Server,FSZNM,88,HP,Proliant DL120G5,No,No,No,CNG028SPGL,CHINA,ShangHai,,,10/01/2010,05/07/2019,,disposal at 07 May 2019
+Server,,,HP,Proliant ML150 G6,Yes,Yes,No,,CHINA,ShangHai,,IT Dept,08/31/2009,,,
+Server,DFSNM,10,Dell,R520 Server,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,01/21/2014,,,Keeping in Rack
+Server,FCHKM,828,Quantum,SuperLoader 3,Yes,Yes,Yes,BU1446BHP00064,CHINA,KCC,10.22.21.13,IT Dept,12/31/2014,,Microware,
+Server,DFMNM,67,IBM,System P5,Yes,Yes,Yes,BCGMZZ1,CHINA,KCC,HKP5TST,IT Dept,02/17/2012,,NationMark,
+Server,DFMNM,67,IBM,TS3100 tape loader,Yes,Yes,Yes,78BE594,CHINA,KCC,,IT Dept,02/17/2012,,,
+Server,FCHKM,848,IBM,TS3100 tape loader,Yes,Yes,Yes,78BN348,CHINA,KCC,10.16.82.46,IT Dept,08/31/2016,,TECH-TRANS,
+Server,DFMNM,67,IBM,TS3100 tape loader,Yes,Yes,Yes,78G1922,CHINA,KCC,,IT Dept,02/17/2012,,,
+Server,DFMNM,63,IBM,TS3100 tape loader,Yes,Yes,Yes,78X0026,CHINA,KCC,,IT Dept,13/13/2013,,SerivceOne,
+Server,FCHKM,750,IBM,TS3100 tape loader,Yes,Yes,Yes,78Z8165,CHINA,KCC,,IT Dept,08/31/2012,,Microware,
+Server,DFMNM,67,IBM,X335,Yes,Yes,Yes,655C80A,CHINA,KCC,,IT Dept,02/17/2012,,,
+Server,DFMNM,67,IBM,X3550 M3,Yes,Yes,Yes,0631A5C,CHINA,KCC,,IT Dept,02/17/2012,,ServiceOne,
+Server,FCHKM,804,IBM,X3650 M4,Yes,Yes,Yes,06CDDH6,CHINA,KCC,10.16.82.146,IT Dept,11/30/2013,,ServiceOne,
+Server,FCHKM,805,IBM,X3650 M4,Yes,Yes,Yes,06CDDK2,CHINA,KCC,10.22.21.235,IT Dept,11/30/2013,,ServiceOne,
+Server,DFMNM,63,IBM,X3650 M4,Yes,Yes,Yes,06CDDK7,CHINA,KCC,10.16.82.147,IT Dept,12/13/2013,,ServiceOne,
+Server,DFMNM,63,IBM,X3650 M4,Yes,Yes,Yes,06DHTM5,CHINA,KCC,10.16.82.148,IT Dept,12/13/2013,,ServiceOne,
+Server,DFMNM,63,IBM,X3650 M4,Yes,Yes,Yes,06LLKB7,CHINA,KCC,10.22.21.90,IT Dept,12/13/2013,,Microware,
+Server,FCHKM,782,IBM,X3650 M4,Yes,Yes,Yes,06MGAV3,CHINA,KCC,10.16.82.141,IT Dept,12/31/2012,,ServiceOne,
+Server,DFMNM,64,IBM,X3650 M4,Yes,Yes,Yes,06NVVP6,CHINA,KCC,10.16.82.140,IT Dept,12/23/2013,,ServiceOne,
+Server,DFMNM,67,IBM,X3650 M4,Yes,Yes,Yes,06NVVR1,CHINA,KCC,10.16.82.142,IT Dept,02/17/2012,,ServiceOne,
+Server,DFMNM,67,IBM,X3650 M4,Yes,Yes,Yes,06PLPV0,CHINA,KCC,10.22.21.236,IT Dept,02/17/2012,,ServiceOne,
+Server,FCHKM,804,IBM,X3650 M4,Yes,Yes,Yes,06ZNBY1,CHINA,KCC,10.22.21.64,IT Dept,11/30/2013,,ServiceOne,
+Server,FCHKM,805,IBM,X3650 M4,Yes,Yes,Yes,06ZNBY2,CHINA,KCC,10.22.21.104,IT Dept,11/30/2013,,ServiceOne,
+Server,DFMNM,67,IBM,X3850 X5,Yes,Yes,Yes,99D2472,CHINA,KCC,10.16.82.91,IT Dept,02/17/2012,,ServiceOne,
+Software,FCHKM,909,AVAYA,AVAYA SCOPIA XT FULL MCU9 License,Yes,Yes,Yes,N/A,CHINA,COSCO Tower,,IT Dept,10/04/2018,10/03/2019,EWARE,
+Software,N/A,N/A,Adobe,Acrobat X Standard,Yes,Yes,No,1.01613E+19,,,,,,,,
+Software,N/A,N/A,Adobe,Acrobat X Standard,Yes,Yes,No,1.01614E+15,CHINA,Hong Kong,,Tim Wu,N/A,N/A,,
+Software,DFMNM,43,Cisco,Catalyst 2960-X III - Software,Yes,Yes,Yes,FOC1841S0CT,CHINA,T8,,IT Dept,12/30/2014,09/30/2019,Service One,
+Software,DFMNM,44,Cisco,Catalyst 2960-X IV - Software,Yes,Yes,Yes,FCW1837A5Z4,CHINA,T8,,IT Dept,12/30/2014,09/30/2019,Service One,
+Software,N/A,N/A,Kaspersky,Endpoint Security * 225,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,07/20/2018,07/31/2020,Pacific Datacom,
+Software,N/A,N/A,GoDaddy,Florens Website SSL Cert,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,03/16/2018,03/16/2020,GoDaddy,
+Software,DFMNM,51,Cisco,NGFW ASA 5515-X III - Software,Yes,Yes,Yes,FCH183773DW,CHINA,T8,,IT Dept,12/30/2014,09/30/2018,Service One,
+Software,DFMNM,52,Cisco,NGFW ASA 5515-X IV - Software,Yes,Yes,Yes,FCH183773BJ,CHINA,T8,,IT Dept,12/30/2014,09/30/2018,Service One,
+Software,N/A,N/A,Microsoft,Office 365 E3 license * 10,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,no record,12/12/2018,Pacific Datacom,
+Software,N/A,N/A,Microsoft,Office 365 business license * 100,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,12/12/2017,12/12/2018,JOS,
+Software,N/A,N/A,Microsoft,Office 365 business license * 50,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,12/03/2017,12/12/2018,Pacific Datacom,
+Software,N/A,N/A,Q9,Q9 Chinese Entry,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,09/04/2018,09/03/2021,Q9,Jerry Cheng / Angela Zhang / Aretha Lau / Vivian Lau
+Software,DFMNM,257,SAP,SAP BO Maintenance,Yes,Yes,Yes,N/A,CHINA,COSCO Tower,,IT Dept,09/08/2011,08/31/2019,DynaSys Solution,
+Software,N/A,N/A,Symantec,SSL Certificate - hkvpn.florens.com,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,02/24/2018,02/23/2019,Symantec,
+Software,N/A,N/A,Symantec,Symantec Backup Exec 2010,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,21/10/2016,20/10/2017,Microware,
+Software,N/A,N/A,Tableau,Tableau License Server,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,12/11/2017,12/10/2018,Tableau,
+Software,N/A,N/A,TeamViewer,TeamViewer license * 3,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,08/31/2018,08/30/2019,Team Viewer,
+Software,N/A,N/A,GoDaddy,florensfm and florenscrm SSL cert,Yes,Yes,No,N/A,CHINA,COSCO Tower,,IT Dept,11/13/2018,11/12/2020,GoDaddy,
+Storage,DFMNM,63,IBM,2145 UPS-1U,Yes,Yes,Yes,75TLRMA,CHINA,KCC,,IT Dept,12/13/2013,,ServiceOne,
+Storage,DFMNM,64,IBM,2145 UPS-1U,Yes,Yes,Yes,75TMLCA,CHINA,KCC,,IT Dept,12/23/2013,,ServiceOne,
+Storage,DFMNM,38,HP,3Par StoreServ 7400,Yes,Yes,Yes,4C14436832,CHINA,T8,DFTP3PAR01,IT Dept,12/29/2014,,ServiceOne,
+Storage,DFMNM,68,IBM,DS3512,Yes,Yes,Yes,13M0DXR,CHINA,KCC,10.16.82.103,IT Dept,02/17/2012,,ServiceOne,
+Storage,DFMNM,68,IBM,EXP3524,Yes,Yes,Yes,13D1ZYF,CHINA,KCC,10.16.82.104,IT Dept,02/17/2012,,ServiceOne,
+Storage,DFMNM,63,IBM,FlashSystem 810,Yes,Yes,Yes,13T250C,CHINA,KCC,10.16.82.139,IT Dept,12/13/2013,,ServiceOne,
+Storage,DFMNM,64,IBM,FlashSystem 810,Yes,Yes,Yes,13T2511,CHINA,KCC,10.16.82.138,IT Dept,12/23/2013,,ServiceOne,
+Storage,FCHKM,845,IBM,FlashSystem 900,Yes,Yes,Yes,6866058,CHINA,KCC,10.16.82.45,IT Dept,08/31/2016,,TECH-TRANS,
+Storage,FCHKM,897,IBM,IBM SAN Switch Upgrade - add license,Yes,Yes,Yes,N/A,CHINA,KCC,,IT Dept,10/31/2017,,Island,IBMSAN Switch Upgrade Sep 2017 / adding using license
+Storage,DFMNM,68,IBM,SAN 2498-B24,Yes,Yes,Yes,10120WY,CHINA,KCC,,IT Dept,02/17/2012,,IBM,
+Storage,DFMNM,68,IBM,SAN 2498-B24,Yes,Yes,Yes,10123AN,CHINA,KCC,,IT Dept,02/17/2012,,IBM,
+Storage,FCHKM,750,IBM,SAN 2498-B24,Yes,Yes,Yes,10235PL,CHINA,KCC,,IT Dept,08/31/2012,,IBM,
+Storage,FCHKM,750,IBM,SAN 2498-B24,Yes,Yes,Yes,10235RF,CHINA,KCC,,IT Dept,08/31/2012,,IBM,
+Storage,DFMNM,68,IBM,SAN 2498-B24,Yes,Yes,Yes,10352EC,CHINA,KCC,10.16.82.130,IT Dept,02/17/2012,,ServiceOne,
+Storage,DFMNM,68,IBM,SAN 2498-B24,Yes,Yes,Yes,10352EL,CHINA,KCC,10.16.82.131,IT Dept,02/17/2012,,ServiceOne,
+Storage,FCHKM,846,IBM,SAN 2498-B24,Yes,Yes,Yes,10518KM,CHINA,KCC,10.16.82.102,IT Dept,08/31/2016,,TECH-TRANS,
+Storage,FCHKM,847,IBM,SAN 2498-B24,Yes,Yes,Yes,10518NG,CHINA,KCC,10.16.82.101,IT Dept,08/31/2016,,TECH-TRANS,
+Storage,DFMNM,63,IBM,SVC StorageEngine,Yes,Yes,Yes,75TLRMA,CHINA,KCC,10.16.82.132,IT Dept,12/13/2013,,ServiceOne,
+Storage,DFMNM,64,IBM,SVC StorageEngine,Yes,Yes,Yes,75TMLCA,CHINA,KCC,,IT Dept,12/23/2013,,ServiceOne,
+Storage,DFMNM,63,HP,San Switch,Yes,Yes,Yes,CZC437T1LP,CHINA,T8,DFTPFCSW02,IT Dept,12/13/2013,,ServiceOne,
+Storage,DFMNM,64,HP,San Switch,Yes,Yes,Yes,CZC437T1LY,CHINA,T8,DFTPFCSW01,IT Dept,12/23/2013,,ServiceOne,
+Storage,FCHKM,896,IBM,V7000,Yes,Yes,Yes,7824D3K,CHINA,KCC,10.22.21.165,IT Dept,10/31/2017,,IBM,New Storage Expand
+Storage,FCHKM,750,IBM,V7000,Yes,Yes,Yes,78N1R8M,CHINA,KCC,10.22.21.20,IT Dept,08/31/2012,,IBM,
+Storage,FCHKM,803,IBM,V7000,Yes,Yes,Yes,78N1Y3P,CHINA,KCC,,IT Dept,11/30/2013,,IBM,
+Storage,DFMNM,63,IBM,V7000,Yes,Yes,Yes,78REB80,CHINA,KCC,10.16.82.134,IT Dept,12/13/2013,,ServiceOne,
+Storage,DFMNM,64,IBM,V7000,Yes,Yes,Yes,78REHZL,CHINA,KCC,10.16.82.136,IT Dept,12/23/2013,,ServiceOne,
+Storage,DFMNM,265,IBM,V7000,Yes,Yes,Yes,78RGHBV,CHINA,KCC,10.16.82.136,IT Dept,06/19/2015,,ServiceOne,
