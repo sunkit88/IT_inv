@@ -185,7 +185,7 @@ Laptop,FCHKM,929,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1NXLLB,CHINA,Hong Kong,HKNBX
 Laptop,FJERM,206,Lenovo,ThinkPad E490,Yes,No,Yes,PF1QS0Y6,US,New Jersey,,Spare,07/16/2019,,,keep in NJ office
 Laptop,FJERM,205,Lenovo,ThinkPad E490,Yes,No,Yes,PF1QS0YV,US,New Jersey,,Spare,07/16/2019,,,keep in NJ office
 Laptop,FCHKM,932,Lenovo,ThinkPad E490,Yes,Yes,Yes,PF1RBW47,China,Hong Kong,HKNBBW47,Connie Kang,06/19/2019,,,
-Laptop,FCITM,76,Lenovo,ThinkPad E580,Yes,Yes,No,PF15R9W2,EUROP,Genoa,EUNBR9W2,Gabriel Matriez Cotes,10/31/2018,,,Disposed by GMD in Dec 2018
+Laptop,FCITM,76,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF15R9W2,EUROP,Genoa,EUNBR9W2,Gabriel Matriez Cotes,10/31/2018,,,
 Laptop,FJERM,204,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF16FSQ5,US,Houston,USNBFSQ5,Gary Petter,10/31/2018,,,
 Laptop,FCHIM,1,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF16FSSH,US,Chicago,USNBFSSH,Dean Beushausen,10/31/2018,,,
 Laptop,DFSNM,22,Lenovo,ThinkPad E580,Yes,Yes,Yes,PF1EKNZW,ASIA,Singapore,HKNBKNZW,Ling Yap,10/31/2018,,,
@@ -225,7 +225,7 @@ Laptop,FJERM,201,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0THGXF,US,Chandler,USNBHGXF,
 Laptop,FPHXM,2,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0THGYG,US,Chandler,USNBHGYG,Jamie KIM,12/31/2017,,,
 Laptop,FTJNM,67,Lenovo,ThinkPad T470,Yes,Yes,Yes,PF0WXWWP,CHINA,Shanghai,HKNBXWWP,Chen Wei,12/31/2017,,,
 Laptop,FTJNM,69,Lenovo,ThinkPad T480,Yes,Yes,Yes,PF0YZ6A2,CHINA,Shanghai,HKNBZ6A2,Lesley Zhang,12/31/2018,,,
-Laptop,FTJNM,98,Lenovo,ThinkPad T480,Yes,Yes,TBC,PF1FJAJ7,China,Shanghai,HKNBJAJ7,Wendy Ding,07/15/2019,,,
+Laptop,FTJNM,98,Lenovo,ThinkPad T480,Yes,Yes,Yes,PF1FJAJ7,China,Shanghai,HKNBJAJ7,Wendy Ding,07/15/2019,,,
 Laptop,FHSTM,3,Lenovo,ThinkPad T480,Yes,Yes,Yes,PF1KQF2H,US,Houston,USNBQF2H,Jake Jacobsen,03/18/2019,,,
 Laptop,FTJNM,64,Lenovo,ThinkPad T530,Yes,Yes,Yes,R9YHHVW,CHINA,Shanghai,HKNBHHVW,FIN Dept,09/30/2013,,,
 Laptop,FTJNM,65,Lenovo,ThinkPad T530,Yes,No,Yes,R9YHHVX,CHINA,Hong Kong,HKNBHHVX,Spare,09/30/2013,,,
@@ -332,7 +332,7 @@ Laptop,FCHKM,911,Lenovo,Thinkpad T580,Yes,Yes,Yes,R90SJ78W,CHINA,Hong Kong,HKNBJ
 Laptop,DFMNM,205,ASUS,U45J,No,No,No,A7N0AS020907287,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
 Laptop,,,Sony,VGN-TX17GP,No,No,No,2.81991E+14,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
 Laptop,FCHKM,601,Sony,VGN-Z46GD,No,No,No,2.82175E+14,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
-Laptop,FJERM,169,Sony,VGN-Z540NCB,No,No,Yes,3109256,CHINA,Hong Kong,,N/A,06/30/2009,,,"Return by NJ/suggest to disposal (MARCELLO), Core2Duo P8400 2.26GHz, 2GB RAM, WinVista / no value"
+Laptop,FJERM,169,Sony,VGN-Z540NCB,Yes,No,Yes,3109256,CHINA,Hong Kong,,Fault,06/30/2009,,,"Return by NJ/suggest to disposal (MARCELLO), Core2Duo P8400 2.26GHz, 2GB RAM, WinVista / no value"
 Laptop,FMACM,60,Sony,Vaio VGN-SZ483N/C,No,No,Yes,N/A,CHINA,Macau,,N/A,10/31/2007,,,suggest to disposal not found / no value
 Laptop,,,NEC,Versa Note,No,No,No,1186400226,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
 Laptop,,,Dell,Vestro 3400,No,No,No,5N8F7L1,CHINA,Hong Kong,,,no record,05/12/2018,,Collected by Caritas
@@ -364,17 +364,20 @@ Network,FTJNM,56,CheckPoint,Checkpoint VPN-1 UTM,Yes,Yes,Yes,,CHINA,Tianjin,,Tia
 Network,DFMNM,26,Cisco,Cisco 2960,Yes,Yes,Yes,FCW1837A5Z4,CHINA,T8,DFTPSW2960-02,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,27,Cisco,Cisco 2960,Yes,Yes,Yes,FOC1841S0CT,CHINA,T8,DFTPSW2960-01,IT Dept,02/27/2014,,JOS,
 Network,FCHKM,854,Cisco,Cisco 3850,Yes,Yes,Yes,FOC2032U0UQ,CHINA,KCC,FL_SW3850,IT Dept,10/31/2016,,TECH-TRANS,
+Network,DFMNM,34,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,36,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,37,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,35,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
-Network,DFMNM,34,Cisco,Cisco 3850 10G SFP,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,32,Cisco,Cisco 3850 10G SFP - Hardware Chassis,Yes,Yes,Yes,FOC1839U0SV,CHINA,T8,DFTPSW3850-01,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,33,Cisco,Cisco 3850 10G SFP - Hardware Chassis,Yes,Yes,Yes,FOC1839U0VQ,CHINA,T8,DFTPSW3850-02,IT Dept,02/27/2014,,JOS,
-Network,DFMNM,30,Cisco,Cisco 3850 Internal Module,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
 Network,DFMNM,31,Cisco,Cisco 3850 Internal Module,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
+Network,DFMNM,30,Cisco,Cisco 3850 Internal Module,Yes,Yes,Yes,N/A,CHINA,T8,,IT Dept,02/27/2014,,JOS,
 Network,FCGEM,67,Cisco,Cisco ASA 5506-X Firewall,Yes,Yes,Yes,JAD22210EC9,EUROP,Hamburg,10.15.28.1,Hamburg Office,08/31/2018,,Cisco,Keeping in Rack
 Network,,,Cisco,Cisco ASA 5506-X Firewall,Yes,No,No,JMX2226G2FF,CHINA,Hong Kong,,Spare,07/11/2018,,ECCOM,relocated from MO
 Network,FCHKM,903,Cisco,Cisco Catal 2960-X24Poe Switch,Yes,Yes,Yes,FOC211513VV,CHINA,KCC,Florens_50F-1_poe,IT Dept,01/31/2018,,Pacific Datacom,
+Network,FCHKM,918,Cisco,Cisco Catal2960-X24PoE Switch,Yes,Yes,Yes,,CHINA,Hong Kong,,,,,,Keep in COSCO Tower server room
+Network,FCHKM,919,Cisco,Cisco Catal2960-X48,Yes,Yes,Yes,,CHINA,KCC,,,,,,
+Network,FCHKM,930,Cisco,Cisco Catalyst 3650 Switch 17,Yes,Yes,Yes,,CHINA,Shanghai,,,,,,
 Network,FJERM,97,Cisco,Cisco Router,Yes,No,Yes,,US,New Jersey,,New Jersey Office,04/01/2001,,,suggest to disposal not found / no value
 Network,FJERM,192,Dell,DELL POWER CONNECT SWITCH,Yes,No,Yes,,US,New Jersey,,New Jersey Office,05/31/2014,,,Keeping in Server Room
 Network,FCHKM,907,Cisco,Firepower 2110,Yes,Yes,Yes,JAD22170DVL,CHINA,KCC,Firepower-1,IT Dept,09/30/2018,,ECCOM,
@@ -419,6 +422,7 @@ Other,FJERM,171,,ONE MITEL NETWORKS 3300 ICP,Yes,No,Yes,,US,New Jersey,,Spare,10
 Other,DFMNM,9,Panasonic,PhoneSystem-TDA200,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/28/2011,,,suggest to disposal old telephone system / confirm with Tony already collect by vendor / no value
 Other,DFMNM,17,Avaya,RADVISIONXT4200VConfere I,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/24/2014,,,suggest to disposal - not move to COSCO Tower from KCC conf 2 / have value
 Other,DFMNM,18,Avaya,RADVISIONXT4200VConfere II,No,No,Yes,N/A,CHINA,Hong Kong,,N/A,07/24/2014,,,suggest to disposal - not move to COSCO Tower from KCC conf 3 / have value
+Other,FCHKM,931,Nationmark,Ram x8 & Install Fee 6/19,Yes,Yes,Yes,N/A,CHINA,KCC,,IT Dept,19/6/2019,,Nationmark,Installed in IBM X3650 M4(06PLPV0)
 Other,DFMNM,75,SANYO,SANYO PLC-XU110 LCD Projector,Yes,No,No,G7102878,CHINA,Hong Kong,,Spare,06/01/2007,31/12/2018,,Disposed by GMD in Dec 2018/Keep in COSCO 50F server Room
 Other,DFSNM,8,Samsung,Samsung UA55F5300 TV,Yes,Yes,Yes,,ASIA,Singapore,,Singapore Office,11/27/2013,,,Keeping in Meeting Room
 Other,FMACM,153,Samsung,Samsung UA65NU7100-VC TV,No,No,Yes,ASAMUA65NU7100,CHINA,Macau,,Macau Office,07/31/2018,,,Meeting Room
@@ -511,6 +515,7 @@ Storage,DFMNM,63,IBM,FlashSystem 810,Yes,Yes,Yes,13T250C,CHINA,KCC,10.16.82.139,
 Storage,DFMNM,64,IBM,FlashSystem 810,Yes,Yes,Yes,13T2511,CHINA,KCC,10.16.82.138,IT Dept,12/23/2013,,ServiceOne,
 Storage,FCHKM,845,IBM,FlashSystem 900,Yes,Yes,Yes,6866058,CHINA,KCC,10.16.82.45,IT Dept,08/31/2016,,TECH-TRANS,
 Storage,FCHKM,897,IBM,IBM SAN Switch Upgrade - add license,Yes,Yes,Yes,N/A,CHINA,KCC,,IT Dept,10/31/2017,,Island,IBMSAN Switch Upgrade Sep 2017 / adding using license
+Storage,FCHKM,943,IBM,IBM V700 Flash900 & Storage,Yes,Yes,Yes,N/A,CHINA,KCC,,IT Dept,29/6/2019,,IBM,Installed in Flash900 & IBM V7000(78RGHBV)
 Storage,DFMNM,68,IBM,SAN 2498-B24,Yes,Yes,Yes,10120WY,CHINA,KCC,,IT Dept,02/17/2012,,IBM,
 Storage,DFMNM,68,IBM,SAN 2498-B24,Yes,Yes,Yes,10123AN,CHINA,KCC,,IT Dept,02/17/2012,,IBM,
 Storage,FCHKM,750,IBM,SAN 2498-B24,Yes,Yes,Yes,10235PL,CHINA,KCC,,IT Dept,08/31/2012,,IBM,
