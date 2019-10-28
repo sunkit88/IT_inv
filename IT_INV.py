@@ -17,6 +17,7 @@ fin_inv["Asset ID"] = fin_inv["Asset ID"].str[-8:]
 fin_inv["AssetCode"] = fin_inv["Business Unit AM"].astype(str) + fin_inv["Asset ID"].astype(str)
 fin_inv = fin_inv.drop(columns=["Asset ID"])
 fin_inv = fin_inv.reindex(columns=["AssetCode"] + list(fin_inv.columns[:-1]))
+fin_inv = fin_inv[fin_inv["Business Unit AM"].isin(["DFMNM", "DFSNM", "FCGEM", "FCHIM", "FCHKM", "FCITM", "FHSTM", "FJERM", "FMACM", "FMEMM", "FPHXM", "FSAVM", "FSFOM", "FTJNM", "FVANM"])]
 
 it_inv_inner = pd.merge(it_inv, fin_inv, on='AssetCode', how='left')
 it_inv_inner.to_csv("it_inv_inner.csv", index=0)
